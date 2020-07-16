@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(0.5 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -83,12 +83,12 @@
   }
 
   img {
-    max-width: 800px;
+    max-width: 175px;
     border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 0.2px solid $border-color;
     }
   }
 }
