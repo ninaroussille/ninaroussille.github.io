@@ -15,9 +15,7 @@ author_profile: true
 **Presented at**: NBER Summer Institute Labor Studies, 3rd IDSC of IZA/University of LuxembourgWorkshop: Matching Workers and Jobs Online, UC Berkeley Labor Lunch Seminar, UC Berkeley Labor Seminar, Paris School of Economics Applied Economics Seminar (scheduled)
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap)  <br/>
 
-
-
- ## Works in progress
+## Works in progress
  **Biased Beliefs about Outside Options and Wage Inequality** (with Simon Jäger, Benjamin Schoefer and Christopher Roth)  <br/>
   **Heterogeneous job ladders** (with Benjamin Scuderi)  <br/>
 
