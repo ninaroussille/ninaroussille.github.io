@@ -15,7 +15,9 @@ author_profile: true
 **Presented at**: NBER Summer Institute Labor Studies, 3rd IDSC of IZA/University of LuxembourgWorkshop: Matching Workers and Jobs Online, UC Berkeley Labor Lunch Seminar, UC Berkeley Labor Seminar, Paris School of Economics Applied Economics Seminar (scheduled)
 
 
-<!--- ## Works in progress --->
+ ## Works in progress
+ **Biased Beliefs about Outside Options and Wage Inequality** (with Simon Jäger, Benjamin Schoefer and Christopher Roth)
+  **Heterogeneous job ladders** (with Benjamin Scuderi)
 
 ## Pre-doctoral Research 
 [**Tax evasion and the Swiss cheese regulation**](http://piketty.pse.ens.fr/files/Rousille2015.pdf) (new draft coming soon) <br/>
