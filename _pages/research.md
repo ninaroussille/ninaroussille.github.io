@@ -19,7 +19,7 @@ author_profile: true
 
 ## Works in progress
 
- **Biased Beliefs about Outside Options and Wage Inequality** (with Simon Jäger, Benjamin Schoefer and Christopher Roth)  <br/>
+<!---  **Biased Beliefs about Outside Options and Wage Inequality** (with Simon Jäger, Benjamin Schoefer and Christopher Roth)  <br/> --->
   **Heterogeneous job ladders** (with Benjamin Scuderi)  <br/>
 
 ## Pre-doctoral Research 
