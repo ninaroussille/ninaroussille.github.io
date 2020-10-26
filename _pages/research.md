@@ -25,8 +25,10 @@ author_profile: true
 **Media coverage**: [Le Monde](https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html)
 
 ## Works in progress  
-  **Biased Beliefs about Outside Options and Wage Inequality** (with Simon Jäger, Benjamin Schoefer and Christopher Roth)  
+  **Biased Beliefs about Outside Options and Wage Inequality** (with Simon Jäger, Benjamin Schoefer and Christopher Roth)   <br/>
+  
   **Revealed Preference Job Ladders** (with Benjamin Scuderi)  <br/>
+  
   **The Effect of Gender and Racial Team Composition on Career Trajectories** (with Elizabeth Linos and Sanaz Mobasseri)  
 
 
