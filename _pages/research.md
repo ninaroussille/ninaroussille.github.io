@@ -31,6 +31,3 @@ author_profile: true
   
   **The Effect of Gender and Racial Team Composition on Career Trajectories** (with Elizabeth Linos and Sanaz Mobasseri)  
 
-
-## Pre-doctoral Research 
-
