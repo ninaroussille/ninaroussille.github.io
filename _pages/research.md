@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working paper
+## Working papers
 
-[**The central role of the ask gap in gender pay inequality**](/files/Roussille_askgap.pdf) <br/>
+[**The central role of the ask gap in gender pay inequality**](/files/Roussille_askgap.pdf) (JMP) <br/>
 
 <!--- (/files/jmp.pdf) --->
 
