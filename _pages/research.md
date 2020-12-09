@@ -29,5 +29,9 @@ author_profile: true
   
   **Revealed Preference Job Ladders** (with Benjamin Scuderi)  <br/>
   
-  **The Effect of Gender and Racial Team Composition on Career Trajectories** (with Elizabeth Linos and Sanaz Mobasseri)  
+  **Presented at**: UC Berkeley Labor Lunch Seminar
+  
+  **The Effect of Gender and Racial Team Composition on Career Trajectories** (with Elizabeth Linos and Sanaz Mobasseri)   <br/>
+  
+  **Presented at**: Harvard Economic Sociology seminar (by co-author)
 
