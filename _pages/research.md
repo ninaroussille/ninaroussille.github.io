@@ -30,6 +30,6 @@ author_profile: true
   **Revealed Preference Job Ladders** (with Benjamin Scuderi)  <br/>
   **Presented at**: UC Berkeley Labor Lunch Seminar
   
-  **The Effect of Gender and Racial Team Composition on Career Trajectories** (with Elizabeth Linos and Sanaz Mobasseri)   <br/>
+  **Asymmetric Peer Effects: How White Peers Shape Black Turnover** (with Elizabeth Linos and Sanaz Mobasseri)   <br/>
   **Presented at**: Harvard Economic Sociology seminar (by co-author)
 
