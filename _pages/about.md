@@ -14,6 +14,6 @@ redirect_from:
 
 Prior to coming to Berkeley, I worked as a pre-doctoral fellow at Harvard for the [Opportunity Insight lab](https://opportunityinsights.org/), after an M.A. from the Paris School of Economics and Ecole Polytechnique. <br>
 <br>
-*I will be on the job market during the 2020-21 academic year and available for interviews at the (virtual) 2020 EEA and 2021 AEA/ASSA meetings.*  <br>
+I will join MIT's Economics Department as an Assistant Professor in 2023, after spending the 2021-2022 academic year as an Assistant Professorial Research Fellow at LSE and the 2022-2023 academic year as a Postdoctoral Associate at MIT. 
 
 You can contact me at: [nina_roussille@berkeley.edu](mailto:nina_roussille@berkeley.edu)
