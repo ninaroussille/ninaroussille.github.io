@@ -14,7 +14,7 @@ redirect_from:
 
  I work on topics in labor, gender and public economics, with a particular interest for the distributional effects of labor market policies.  <br>
 
-I received my PhD in Economics from UC Berkeley and worked as a pre-doctoral fellow at Harvard for the [Opportunity Insight lab](https://opportunityinsights.org/), after an M.A. from the Paris School of Economics and Ecole Polytechnique.
+I received my PhD in Economics from UC Berkeley in 2021 and previously worked as a pre-doctoral fellow at Harvard for the [Opportunity Insight lab](https://opportunityinsights.org/).
 <br>
 
 
