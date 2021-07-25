@@ -17,7 +17,7 @@ author_profile: true
 
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap)  <br/>
 
-[**Worker Beliefs About Rents and Outside Options**](/files/JRRS_Beliefs_Rents_Outside_Options_July2021.pdf) (JMP) <br/>
+[**Worker Beliefs About Rents and Outside Options**](/files/JRRS_Beliefs_Rents_Outside_Options_July2021.pdf) <br/>
   <details>
   <summary>Click to view abstract</summary>
 **Abstract**: We measure workers’ beliefs about rents and outside options in a representative sample of German workers, and compare these beliefs with proxies for actual outside options. While subjective worker rents are large—14% of salary on average—they do not stem from workers’ subjective wage premia at their current firm, but are entirelyderived from
