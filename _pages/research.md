@@ -40,6 +40,6 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
  
  **Information Acquisition About Outside Options And Labor Market Behavior** (with [Mathilde Munoz](https://sites.google.com/view/mathilde-munoz/about/research)) 
 
-  **Asymmetric Peer Effects: How White Peers Shape Black Turnover** (with Elizabeth Linos and Sanaz Mobasseri)   <br/>
+  **Asymmetric Peer Effects: How White Peers Shape Black Turnover** (with [Elizabeth Linos](https://gspp.berkeley.edu/faculty-and-impact/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
 
 
