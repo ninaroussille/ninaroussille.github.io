@@ -34,7 +34,11 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
 
 ## Works in progress  
 
-  **Revealed Preference Job Ladders** (with Benjamin Scuderi)  <br/>
+  **Bidding for Talent: Equilibrium Wage Dispersion in a High-Stakes Online Labor Market** (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
+  
+ **Measuring the Incidence of Wage Subsidies Under Imperfect Competition** (with [Benjamin Scuderi](https://sites.google.com/site/scuderib)) 
+ 
+ **Information Acquisition About Outside Options And Labor Market Behavior** (with [Mathilde Munoz](https://sites.google.com/view/mathilde-munoz/about/research)) 
 
   **Asymmetric Peer Effects: How White Peers Shape Black Turnover** (with Elizabeth Linos and Sanaz Mobasseri)   <br/>
 
