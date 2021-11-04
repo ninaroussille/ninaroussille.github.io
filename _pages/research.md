@@ -38,7 +38,7 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
   
  **Measuring the Incidence of Wage Subsidies Under Imperfect Competition** (with [Benjamin Scuderi](https://sites.google.com/site/scuderib)) 
  
- **Exposure to Posted Workers And Labor Market Behavior** (with [Mathilde Munoz](https://sites.google.com/view/mathilde-munoz/about/research)) 
+ **Exposure to Posted Workers And Long-Run Labor Market Behavior** (with [Mathilde Munoz](https://sites.google.com/view/mathilde-munoz/about/research)) 
 
   **Asymmetric Peer Effects: How White Peers Shape Black Turnover** (with [Elizabeth Linos](https://gspp.berkeley.edu/faculty-and-impact/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
 
