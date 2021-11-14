@@ -28,7 +28,7 @@ non-wage amenities. When comparing workers’ subjective outside options against
   <details>
   <summary>Click to view abstract</summary>
   This paper studies the nature and implications of firm wage-setting conduct on a large online job board for full-time U.S. tech workers. Utilizing granular data on the choice sets and decisions of firms and job seekers, we first develop and implement a novel estimator of worker preferences that accounts for both the vertical and horizontal differentiation of firms. The average worker is willing to pay 14% of their salary for a standard deviation increase in firm amenities. However, at the average firm, the standard deviation of valuations of that firm’s amenities across coworkers is also equivalent to 14% of their salaries, indicating that preferences are not well-described by a single ranking of firms. Following the “New Empirical Industrial Organization” literature, we use our labor supply estimates to compute the wage markdowns implied by a series of models of firm conduct that vary in the degree to which worker preference heterogeneity gives rise to market power. We then formulate a testing procedure that can discriminate between these models. Oligopsonistic models of wage setting are rejected in favor of monopsonistic models exhibiting near uniform markdowns of roughly 18%. Relative to a competitive benchmark, imperfect competition substantially exacerbates gender gaps in both wages and welfare. However, blinding employers to the gender of job candidates would have negligible effects on wage inequality.
-  <details>
+  </details>
     
 [**Tax evasion and the Swiss cheese regulation**](/files/Swisscheese.pdf)  <br/>
   <details>
