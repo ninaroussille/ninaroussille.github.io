@@ -23,7 +23,8 @@ The genderask  gapmeasures the extent to which women ask for lower salaries than
 Workers wrongly anchor their beliefs about outside options on their current wage. In particular, low-paid workers underestimate wages elsewhere. We document this anchoring bias by eliciting workers’ beliefs in a representative survey in Germany and comparing them to measures of actual outside options in linked administrative labor market data. In an equilibrium model, such anchoring can give rise to monopsony and labor market segmentation. In line with the model, misperceptions are particularly pronounced among workers in low-wage firms. If workers had correct beliefs, at least 10% of jobs, concentrated in low-wage firms, would not be viable at current wages.<br/>
 </details>
 
-**Media coverage**: [Brookings](https://www.brookings.edu/blog/up-front/2022/01/06/hutchins-roundup-racial-disparity-core-inflation-and-more/), [Project Syndicate](https://www.project-syndicate.org/commentary/great-resignation-us-lack-of-support-for-workers-by-j-bradford-delong-2021-12), [Business Insider](https://www.businessinsider.com/wage-pay-salary-transparency-effect-workers-quit-raises-great-resignation-2022-1?r=US&IR=T), [BBC](https://www.bbc.com/worklife/article/20220204-the-salary-ignorance-that-keeps-many-workers-underpaid)  <br/>
+**Media coverage**: [Brookings](https://www.brookings.edu/blog/up-front/2022/01/06/hutchins-roundup-racial-disparity-core-inflation-and-more/), [Project Syndicate](https://www.project-syndicate.org/commentary/great-resignation-us-lack-of-support-for-workers-by-j-bradford-delong-2021-12), [Business Insider](https://www.businessinsider.com/wage-pay-salary-transparency-effect-workers-quit-raises-great-resignation-2022-1?r=US&IR=T), [BBC](https://www.bbc.com/worklife/article/20220204-the-salary-ignorance-that-keeps-many-workers-underpaid), [Economic Report of the President/CEA Annual Report 
+](https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf)  <br/>
 
   [**Bidding for Talent: Equilibrium Wage Dispersion on a High-Wage Online Job Board**](/files/Scuderi_JMP_2021.pdf) (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
   <details>
@@ -47,6 +48,6 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
  
  **Persistent Labor Market Impact of Exposure to Temporary Migration** (with [Mathilde Munoz](https://sites.google.com/view/mathilde-munoz/about/research)) 
 
-  **Asymmetric Peer Effects: How White Peers Shape Black Turnover** (with [Elizabeth Linos](https://gspp.berkeley.edu/faculty-and-impact/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
+  **Asymmetric Peer Effects at Work: How White Coworkers Shape the Careers of People of Color** (with [Elizabeth Linos](https://gspp.berkeley.edu/faculty-and-impact/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
 
 
