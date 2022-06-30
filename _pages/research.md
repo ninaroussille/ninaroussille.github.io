@@ -17,7 +17,7 @@ The gender ask gap measures the extent to which women ask for lower salaries tha
 
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
 
-[**Worker Beliefs About Outside Options**](/files/NBERw29623.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> [Updated December 2021]
+[**Worker Beliefs About Outside Options**](/files/NBERw29623.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> Revise and resubmit, **Quarterly Journal of Economics**
   <details>
   <summary>Click to view abstract</summary>
 Workers wrongly anchor their beliefs about outside options on their current wage. In particular, low-paid workers underestimate wages elsewhere. We document this anchoring bias by eliciting workers’ beliefs in a representative survey in Germany and comparing them to measures of actual outside options in linked administrative labor market data. In an equilibrium model, such anchoring can give rise to monopsony and labor market segmentation. In line with the model, misperceptions are particularly pronounced among workers in low-wage firms. If workers had correct beliefs, at least 10% of jobs, concentrated in low-wage firms, would not be viable at current wages.<br/>
