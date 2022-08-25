@@ -19,3 +19,5 @@ I received my PhD in Economics from UC Berkeley in 2021 and previously worked as
 
 
 You can contact me at: [nroussil@mit.edu](mailto:nroussil@mit.edu)
+
+For MIT PhD students office hours, sign up [here](https://calendly.com/ninaroussille/officehours)
