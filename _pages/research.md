@@ -51,6 +51,6 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
  
  **Persistent Labor Market Impact of Exposure to Temporary Migration** (with [Mathilde Munoz](https://sites.google.com/view/mathilde-munoz/about/research)) 
 
-  **Asymmetric Peer Effects at Work: How White Coworkers Shape the Careers of ''People of Color''** (with [Elizabeth Linos](https://gspp.berkeley.edu/faculty-and-impact/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
+  **Asymmetric Peer Effects at Work: How White Coworkers Shape the Careers of ''People of Color''** (with [Elizabeth Linos](https://www.hks.harvard.edu/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
 
 
