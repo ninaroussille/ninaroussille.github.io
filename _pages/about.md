@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <img src=https://github.com/ninaroussille/ninaroussille.github.io/tree/master/images/profile2.jpg style="width:540px;height:740px;"> -->
+<!-- <img src=https://github.com/ninaroussille/ninaroussille.github.io/tree/master/images/profile2.jpg style="width:360px;height:240px;"> -->
 
 <!--![github small](/images/profile2.jpg) -->
 <img src="/images/profile2.jpg" alt="drawing" width="360" height="240" style="float: left; padding-right:15px"/>  I am a Postdoctoral Associate at MIT and will join MIT's Economics Department as an Assistant Professor in 2023. I am also the Executive Director of the [Hub for Equal Representation](https://www.hubequalrep.org/) at the LSE, where I spent the 2021-2022 academic year as an Assistant Professorial Research Fellow. <br>
