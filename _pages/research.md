@@ -7,6 +7,29 @@ author_profile: true
 
 ## Working papers
 
+
+[**Tax Evasion and the Swiss Cheese Regulation**](/files/Roussille_askgap.pdf)  <br/>
+[Updated, March 2023] (with [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home))
+<!--- (/files/MR_TaxEvasion_SwissCheeseRegulation2023.pdf) --->
+<details>
+  <summary>Click to view abstract</summary>
+This paper studies how investors respond to tax evasion regulations in offshore
+financial centers. We do so by analyzing the 2005 EU Savings Tax Directive,
+which introduced a withholding tax on interest income earned by EU households in
+Switzerland and other offshore centers. Exploiting a unique combination of public
+administrative Swiss datasets, we find that the reform barely curbed tax evasion:
+73% of the European offshore wealth in Switzerland remained both undeclared and
+untaxed by the time the Directive was repealed. We show that the limited scope
+of the Directive is mainly explained by tax evaders’ active re-investment strategies
+in tax-exempt assets, as well as ownership transfer to sham corporations registered
+in tax havens. We rationalize the drivers of declarations by means of a model and
+document empirically that monetary incentives, such as the increase in the upfront
+tax in Switzerland or tax amnesties in the evader’s home country, appear to be
+the driving force behind the rise of declarations. Conversely, bilateral information
+exchange treaties that were praised as a way to “end bank secrecy” have the least
+effect on declarations. <br/>
+</details>
+
 [**The central role of the ask gap in gender pay inequality**](/files/Roussille_askgap.pdf)  <br/>
 [Updated, July 2022] Revise and resubmit, **Quarterly Journal of Economics**
 <!--- (/files/jmp.pdf) --->
