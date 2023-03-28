@@ -7,6 +7,23 @@ author_profile: true
 
 ## Working papers
 
+  [**Worker Beliefs About Outside Options**](/files/JRRS_Beliefs_Rents_Outside_Options_March2023.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
+[Updated, March 2023] Revise and resubmit, **Quarterly Journal of Economics**
+  <details>
+  <summary>Click to view abstract</summary>
+Standard labor market models assume that workers hold accurate beliefs about the
+external wage distribution, and hence their outside options with other employers. We
+test this assumption by comparing German workers’ beliefs about outside options
+with objective benchmarks. First, we find that workers wrongly anchor their beliefs
+about outside options on their current wage: workers that would experience a 10%
+wage change if switching to their outside option only expect a 1% change. Second,
+workers in low-paying firms underestimate wages elsewhere. Third, in response to
+information about thewages of similarworkers, respondents correct their beliefs about
+their outside options and change their job search and wage negotiation intentions.
+Finally, we analyze the consequences of anchoring in a simple equilibrium model. In
+the model, anchored beliefs keep overly pessimistic workers stuck in low-wage jobs,
+which gives rise to monopsony power and labor market segmentation. <br/>
+</details>
 
 [**Tax Evasion and the Swiss Cheese Regulation**](/files/Roussille_askgap.pdf)  <br/>
 [Updated, March 2023] (with [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home))
@@ -46,13 +63,7 @@ The gender ask gap measures the extent to which women ask for lower salaries tha
   <summary>Click to view abstract</summary>
   This paper studies the nature and implications of firm wage-setting conduct on a large online job board for full-time U.S. tech workers. Utilizing granular data on the choice sets and decisions of firms and job seekers, we first develop and implement a novel estimator of worker preferences that accounts for both the vertical and horizontal differentiation of firms. The average worker is willing to pay 14% of their salary for a standard deviation increase in firm amenities. However, at the average firm, the standard deviation of valuations of that firm’s amenities across coworkers is also equivalent to 14% of their salaries, indicating that preferences are not well-described by a single ranking of firms. Following the “New Empirical Industrial Organization” literature, we use our labor supply estimates to compute the wage markdowns implied by a series of models of firm conduct that vary in the degree to which worker preference heterogeneity gives rise to market power. We then formulate a testing procedure that can discriminate between these models. Oligopsonistic models of wage setting are rejected in favor of monopsonistic models exhibiting near uniform markdowns of roughly 18%. Relative to a competitive benchmark, imperfect competition substantially exacerbates gender gaps in both wages and welfare. However, blinding employers to the gender of job candidates would have negligible effects on wage inequality.
   </details>
-  
-  [**Worker Beliefs About Outside Options**](/files/NBERw29623.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
-[December 2021] Revise and resubmit, **Quarterly Journal of Economics**
-  <details>
-  <summary>Click to view abstract</summary>
-Workers wrongly anchor their beliefs about outside options on their current wage. In particular, low-paid workers underestimate wages elsewhere. We document this anchoring bias by eliciting workers’ beliefs in a representative survey in Germany and comparing them to measures of actual outside options in linked administrative labor market data. In an equilibrium model, such anchoring can give rise to monopsony and labor market segmentation. In line with the model, misperceptions are particularly pronounced among workers in low-wage firms. If workers had correct beliefs, at least 10% of jobs, concentrated in low-wage firms, would not be viable at current wages.<br/>
-</details>
+ 
 
 **Media coverage**: [Brookings](https://www.brookings.edu/blog/up-front/2022/01/06/hutchins-roundup-racial-disparity-core-inflation-and-more/), [Project Syndicate](https://www.project-syndicate.org/commentary/great-resignation-us-lack-of-support-for-workers-by-j-bradford-delong-2021-12), [Business Insider](https://www.businessinsider.com/wage-pay-salary-transparency-effect-workers-quit-raises-great-resignation-2022-1?r=US&IR=T), [BBC](https://www.bbc.com/worklife/article/20220204-the-salary-ignorance-that-keeps-many-workers-underpaid), [Economic Report of the President/CEA Annual Report 
 ](https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf)  <br/>
