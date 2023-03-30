@@ -25,6 +25,11 @@ the model, anchored beliefs keep overly pessimistic workers stuck in low-wage jo
 which gives rise to monopsony power and labor market segmentation. <br/>
 </details>
 
+**Media coverage**: [Brookings](https://www.brookings.edu/blog/up-front/2022/01/06/hutchins-roundup-racial-disparity-core-inflation-and-more/), [Project Syndicate](https://www.project-syndicate.org/commentary/great-resignation-us-lack-of-support-for-workers-by-j-bradford-delong-2021-12), [Business Insider](https://www.businessinsider.com/wage-pay-salary-transparency-effect-workers-quit-raises-great-resignation-2022-1?r=US&IR=T), [BBC](https://www.bbc.com/worklife/article/20220204-the-salary-ignorance-that-keeps-many-workers-underpaid), [Economic Report of the President/CEA Annual Report 
+](https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf)  <br/>
+
+    
+
 [**Tax Evasion and the Swiss Cheese Regulation**](/files/MR_TaxEvasion_SwissCheeseRegulation2023.pdf)  <br/>
  (with [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home))
 <!--- () --->
@@ -48,6 +53,8 @@ exchange treaties that were praised as a way to “end bank secrecy” have the 
 effect on declarations. <br/>
 </details>
 
+**Media coverage**: [Le Monde](https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html) <br/>
+
 [**The central role of the ask gap in gender pay inequality**](/files/Roussille_askgap.pdf)  <br/>
 [Updated, July 2022] Revise and resubmit, **Quarterly Journal of Economics**
 <!--- (/files/jmp.pdf) --->
@@ -66,17 +73,14 @@ The gender ask gap measures the extent to which women ask for lower salaries tha
   </details>
  
 
-**Media coverage**: [Brookings](https://www.brookings.edu/blog/up-front/2022/01/06/hutchins-roundup-racial-disparity-core-inflation-and-more/), [Project Syndicate](https://www.project-syndicate.org/commentary/great-resignation-us-lack-of-support-for-workers-by-j-bradford-delong-2021-12), [Business Insider](https://www.businessinsider.com/wage-pay-salary-transparency-effect-workers-quit-raises-great-resignation-2022-1?r=US&IR=T), [BBC](https://www.bbc.com/worklife/article/20220204-the-salary-ignorance-that-keeps-many-workers-underpaid), [Economic Report of the President/CEA Annual Report 
-](https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf)  <br/>
 
-    
 <!--- [**Tax evasion and the Swiss cheese regulation**](/files/Swisscheese.pdf)  <br/>
   <details>
   <summary>Click to view abstract</summary>
 Before automatic exchange of information, the 2005 Savings Tax Directive was the most far-ranging initiative in the attempt to curb tax evasion of European households in Switzerland. Under this program, European tax evaders holding interest-yielding accounts in Switzerland had two choices: either declare their accounts to the fiscal authorities of their resident countries or pay a tax upfront and keep their anonymity. Exploiting a unique combination of public administrative datasets, this paper sheds light on the loopholes of this reform and the large behavioral responses of tax evaders aimed at exploiting them. I find that the reform barely curbed tax evasion : 80% of the European offshore wealth in Switzerland remained both undeclared and untaxed by 2013. Using the Swiss households’ investments as a control group, I show that the failure of the Directive is mainly explained by tax evaders’ active re-investment strategies in tax-exempt assets. While they remain fairly low, declarations of offshore wealth under the Directive have more than quadrupled over the period 2006-2013. This paper demonstrates that monetary incentives, such as tax amnesties in the evader’s home country or the increase in the upfront tax in Switzerland, are the first drivers of declarations. Conversely, bilateral information exchange treaties that were praised as a way to “end bank secrecy” have the least effect on declarations. <br/>
 </details>
 
-**Media coverage**: [Le Monde](https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html) <br/>
+
 --->
 
 ## Works in progress  
