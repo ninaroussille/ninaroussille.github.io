@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
   [**Worker Beliefs About Outside Options**](/files/JRRS_Beliefs_Rents_Outside_Options_March2023.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
-[Updated, March 2023] Revise and resubmit, **Quarterly Journal of Economics**
+[Updated, March 2023] Conditionally accepted, **Quarterly Journal of Economics**
   <details>
   <summary>Click to view abstract</summary>
 Standard labor market models assume that workers hold accurate beliefs about the
