@@ -40,7 +40,7 @@ The gender ask gap measures the extent to which women ask for lower salaries tha
 
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
 
-  [**Bidding for Talent: Equilibrium Wage Dispersion on a High-Wage Online Job Board**](https://www.dropbox.com/scl/fi/k3o55lf80crgr7ofhjwbg/Roussille_Scuderi_072823.pdf?rlkey=wfac2radioseb3ze1au8gi3o3&raw=1) (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
+  [**Bidding for Talent: A Test of Conduct in a High-Wage Labor Market**](https://www.dropbox.com/scl/fi/k3o55lf80crgr7ofhjwbg/Roussille_Scuderi_072823.pdf?rlkey=wfac2radioseb3ze1au8gi3o3&raw=1) (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
   [Updated, July 2023] 
   <details>
   <summary>Click to view abstract</summary>
