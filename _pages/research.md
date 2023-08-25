@@ -30,7 +30,7 @@ which gives rise to monopsony power and labor market segmentation. <br/>
 
     
 
-[**The central role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/>
+[**The role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/>
 [Updated, August 2023] Revised and resubmitted, **Quarterly Journal of Economics**
 <!--- (/files/jmp.pdf) --->
 <details>
