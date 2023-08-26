@@ -7,6 +7,16 @@ author_profile: true
 
 ## Working papers
 
+[**The role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/>
+[Updated, August 2023] Conditionally accepted, **Quarterly Journal of Economics**
+<!--- (/files/jmp.pdf) --->
+<details>
+  <summary>Click to view abstract</summary>
+The gender ask gap measures the extent to which women ask for lower salaries than comparable men. This paper studies its role in generating wage inequality, using novel data from an online recruitment platform for full-time engineering jobs: Hired.com. To use the platform, job candidates must post an ask salary, stating how much they want to make in their next job. Firms then apply to candidates by offering them a \textit{bid salary}, solely based on the candidate's resume and ask salary. If the candidate is hired, a final salary is recorded. After adjusting for resume characteristics, the ask gap is 2.9%, the bid gap is 2.2%, and the final offer gap is 1.4%. Further controlling for the ask salary explains the entirety of the residual gender gaps in bid and final salaries. To further provide evidence of the causal effect of the ask salary on the bid salary, I exploit an unanticipated change in how candidates were prompted to provide their ask. For some candidates in mid-2018, the answer box used to solicit the ask salary was changed from an empty field to an entry pre-filled with the median bid salary for similar candidates. I find that this change drove the ask, bid, and final offer gaps to zero. In addition, women did not receive fewer bids or final offers than men did due to the change, suggesting they faced little penalty for demanding comparable wages. <br/>
+</details>
+
+**Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
+
   [**Worker Beliefs About Outside Options**](/files/JRRS_Beliefs_Rents_Outside_Options_March2023.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
 [Updated, March 2023] Conditionally accepted, **Quarterly Journal of Economics**
   <details>
@@ -29,16 +39,6 @@ which gives rise to monopsony power and labor market segmentation. <br/>
 ](https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf)  <br/>
 
     
-
-[**The role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/>
-[Updated, August 2023] Revised and resubmitted, **Quarterly Journal of Economics**
-<!--- (/files/jmp.pdf) --->
-<details>
-  <summary>Click to view abstract</summary>
-The gender ask gap measures the extent to which women ask for lower salaries than comparable men. This paper studies its role in generating wage inequality, using novel data from an online recruitment platform for full-time engineering jobs: Hired.com. To use the platform, job candidates must post an ask salary, stating how much they want to make in their next job. Firms then apply to candidates by offering them a \textit{bid salary}, solely based on the candidate's resume and ask salary. If the candidate is hired, a final salary is recorded. After adjusting for resume characteristics, the ask gap is 2.9%, the bid gap is 2.2%, and the final offer gap is 1.4%. Further controlling for the ask salary explains the entirety of the residual gender gaps in bid and final salaries. To further provide evidence of the causal effect of the ask salary on the bid salary, I exploit an unanticipated change in how candidates were prompted to provide their ask. For some candidates in mid-2018, the answer box used to solicit the ask salary was changed from an empty field to an entry pre-filled with the median bid salary for similar candidates. I find that this change drove the ask, bid, and final offer gaps to zero. In addition, women did not receive fewer bids or final offers than men did due to the change, suggesting they faced little penalty for demanding comparable wages. <br/>
-</details>
-
-**Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
 
   [**Bidding for Talent: A Test of Conduct in a High-Wage Labor Market**](https://www.dropbox.com/scl/fi/k3o55lf80crgr7ofhjwbg/Roussille_Scuderi_072823.pdf?rlkey=wfac2radioseb3ze1au8gi3o3&raw=1) (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
   [Updated, July 2023] 
