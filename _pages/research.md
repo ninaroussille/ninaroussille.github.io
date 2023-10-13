@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
 [**The role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/>
-[Updated, August 2023] Conditionally accepted, **Quarterly Journal of Economics**
+[Updated, August 2023] Accepted, **Quarterly Journal of Economics**
 <!--- (/files/jmp.pdf) --->
 <details>
   <summary>Click to view abstract</summary>
