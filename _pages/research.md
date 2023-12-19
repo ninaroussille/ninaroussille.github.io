@@ -87,5 +87,15 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
 
 
 --->
+## Work in Progress
 
+<!--- [**Pay Transparency and the Efficacy of Collective Bargaining: Evidence from Hollywood**]  <br/>
+with Zo\¨e Cullen, Julia Gilman and Heather Sarsons
+<details>
+  <summary>Click to view abstract</summary>
+What negotiation tactics make a union powerful? Under the premise that pay transparency would strengthen unions' bargaining position, the U.S. National Labor Relations Act jointly legalized the right to unionize and the right to share salary information. In this paper, we revisit the question of whether unions are conduits or gatekeepers of pay information, and whether they should be. We conduct a survey experiment with over 1,500 screenwriters and directors at the point where the Hollywood Guilds were renegotiating their multi-year contracts with the major U.S. Studios. We find that Guild members highly value information about market pay but cannot access it through the Guild. When we introduce pay transparency, we find that it erodes the perception that the Guild demands will meet member needs in the ongoing contract negotiation. In line with our empiri- cal results, we propose a theoretical framework whereby benevolent unions withhold pay information to sustain member participation in collective bargaining. <br/>
+</details>
+
+<!--- [**The Race Between the Labor and the Marriage Market**]  <br/>
+with Oriana Bandiera and Amen Jalal
 
