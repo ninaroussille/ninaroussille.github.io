@@ -84,18 +84,15 @@ effect on declarations. <br/>
   <summary>Click to view abstract</summary>
 Before automatic exchange of information, the 2005 Savings Tax Directive was the most far-ranging initiative in the attempt to curb tax evasion of European households in Switzerland. Under this program, European tax evaders holding interest-yielding accounts in Switzerland had two choices: either declare their accounts to the fiscal authorities of their resident countries or pay a tax upfront and keep their anonymity. Exploiting a unique combination of public administrative datasets, this paper sheds light on the loopholes of this reform and the large behavioral responses of tax evaders aimed at exploiting them. I find that the reform barely curbed tax evasion : 80% of the European offshore wealth in Switzerland remained both undeclared and untaxed by 2013. Using the Swiss households’ investments as a control group, I show that the failure of the Directive is mainly explained by tax evaders’ active re-investment strategies in tax-exempt assets. While they remain fairly low, declarations of offshore wealth under the Directive have more than quadrupled over the period 2006-2013. This paper demonstrates that monetary incentives, such as tax amnesties in the evader’s home country or the increase in the upfront tax in Switzerland, are the first drivers of declarations. Conversely, bilateral information exchange treaties that were praised as a way to “end bank secrecy” have the least effect on declarations. <br/>
 </details>
-
-
 --->
+
 ## Work in Progress
 
-<!--- [**Pay Transparency and the Efficacy of Collective Bargaining: Evidence from Hollywood**]  <br/>
-with Zo\¨e Cullen, Julia Gilman and Heather Sarsons
+[**Pay Transparency and the Efficacy of Collective Bargaining: Evidence from Hollywood**]  (with Zo\¨e Cullen, Julia Gilman and Heather Sarsons)
 <details>
   <summary>Click to view abstract</summary>
 What negotiation tactics make a union powerful? Under the premise that pay transparency would strengthen unions' bargaining position, the U.S. National Labor Relations Act jointly legalized the right to unionize and the right to share salary information. In this paper, we revisit the question of whether unions are conduits or gatekeepers of pay information, and whether they should be. We conduct a survey experiment with over 1,500 screenwriters and directors at the point where the Hollywood Guilds were renegotiating their multi-year contracts with the major U.S. Studios. We find that Guild members highly value information about market pay but cannot access it through the Guild. When we introduce pay transparency, we find that it erodes the perception that the Guild demands will meet member needs in the ongoing contract negotiation. In line with our empiri- cal results, we propose a theoretical framework whereby benevolent unions withhold pay information to sustain member participation in collective bargaining. <br/>
 </details>
 
-<!--- [**The Race Between the Labor and the Marriage Market**]  <br/>
-with Oriana Bandiera and Amen Jalal
+[**The Race Between the Labor and the Marriage Market**]  with Oriana Bandiera and Amen Jalal
 
