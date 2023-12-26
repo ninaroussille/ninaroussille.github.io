@@ -17,7 +17,7 @@ The gender ask gap measures the extent to which women ask for lower salaries tha
 
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
 
-  [**Worker Beliefs About Outside Options**](/files/JRRS_Beliefs_Rents_Outside_Options_March2023.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
+  [**Worker Beliefs About Outside Options**](/files/WorkerBeliefs_QJE.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
 [Updated, March 2023] Forthcoming (August 2024), **Quarterly Journal of Economics**
   <details>
   <summary>Click to view abstract</summary>
