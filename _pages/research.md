@@ -18,7 +18,7 @@ The gender ask gap measures the extent to which women ask for lower salaries tha
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
 
   [**Worker Beliefs About Outside Options**](/files/WorkerBeliefs_QJE.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
-[Updated, March 2023] Forthcoming (August 2024), **Quarterly Journal of Economics**
+Forthcoming (August 2024), **Quarterly Journal of Economics**
   <details>
   <summary>Click to view abstract</summary>
 Standard labor market models assume that workers hold accurate beliefs about the
@@ -48,7 +48,7 @@ which gives rise to monopsony power and labor market segmentation. <br/>
   </details>
  
   [**Asymmetric Peer Effects at Work: The Effect of White Coworkers on Black Women's careers**](/files/LMR_2023.pdf)  (with [Elizabeth Linos](https://www.hks.harvard.edu/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
-[November 2023]
+[November 2023] Revise and Resubmit (2nd round), **Management Science**
 <details>
   <summary>Click to view abstract</summary>
 This paper investigates how having more White coworkers influences the subsequent retentionand promotion of Black, Asian, and Hispanic women and men. Studying 9,037 new hires at aprofessional services firm, we first document large racial turnover and promotion gaps: even aftercontrolling for observable characteristics, Black employees are 6.7 percentage points (32%) morelikely to turn over within two years and 18.7 percentage points (26%) less likely to be promotedon time than their White counterparts. The largest turnover gap is between Black and Whitewomen, at 8.9 percentage points (51%). Drawing on conditional random assignment of new hiresto initial project teams, we then show that a one standard deviation (14.0 percentage points) increase in the share of White coworkers is associated with a 10.6 percentage point increasein turnover for Black women. These effects are similar in magnitude to the overall turnovergap between White and Black women, and asymmetric: Black women are the only race-gendergroup whose turnover and promotion are negatively impacted by the racial composition of theircoworkers. We explore potential pathways through which these peer effects may emerge: whilethe share of White coworkers does not affect formal task assignment, Black women who wereinitially assigned to Whiter teams subsequently report fewer billable hours and more traininghours, and are more likely to be labeled as low performers in their first performance review.Our findings call for more research on how peer effects early in one’s career shape longer-termracial inequalities at work.<br/>
