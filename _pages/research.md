@@ -55,8 +55,8 @@ This paper investigates how having more White coworkers influences the subsequen
 </details>
 
   
-[**Tax Evasion and the Swiss Cheese Regulation**](/files/MR_TaxEvasion_SwissCheeseRegulation2023.pdf) (with [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home)) <br/>
-[Updated, March 2023]
+[**Tax Evasion and the Swiss Cheese Regulation**](/files/MR_TaxEvasion_SwissCheeseRegulation2024.pdf) (with [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home)) <br/>
+[Updated, January 2024]
 <details>
   <summary>Click to view abstract</summary>
 This paper studies how investors respond to tax evasion regulations in offshore
