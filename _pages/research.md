@@ -73,7 +73,7 @@ document empirically that monetary incentives, such as the increase in the upfro
 tax in Switzerland or tax amnesties in the evader’s home country, appear to be
 the driving force behind the rise of declarations. Conversely, bilateral information
 exchange treaties that were praised as a way to “end bank secrecy” have the least
-effect on declarations. <br/>
+effect on declarations.  <br/>
 </details>
 
 **Media coverage**: [Le Monde](https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html) <br/>
