@@ -1,4 +1,4 @@
----
+ ---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-[**The role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/>
+[**The role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/> 
 Forthcoming (August 2024), **Quarterly Journal of Economics**
 <!--- (/files/jmp.pdf) --->
 <details>
