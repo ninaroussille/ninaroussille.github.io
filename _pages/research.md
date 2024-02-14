@@ -95,5 +95,6 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
 What negotiation tactics make a union powerful? Under the premise that pay transparency would strengthen unions' bargaining position, the U.S. National Labor Relations Act jointly legalized the right to unionize and the right to share salary information. In this paper, we revisit the question of whether unions are conduits of pay information, and whether they should be. We conduct a survey experiment with over 1,500 screenwriters and directors at the point where the Hollywood Guilds were renegotiating their multi-year contracts with the major U.S. Studios. We find that Guild members highly value information about market pay. When we introduce pay transparency, we find that it erodes the perception that the Guilds' demands will meet member needs in the ongoing contract negotiation. In line with our empirical results, we propose a theoretical framework whereby benevolent unions keep pay information private to sustain member participation in collective bargaining. <br/>
 </details>
 
+
 **The Race Between the Labor and the Marriage Market**  (with Oriana Bandiera and Amen Jalal)
 
