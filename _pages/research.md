@@ -96,5 +96,5 @@ What negotiation tactics make a union powerful? Under the premise that pay trans
 </details>
 
 
-**The Race Between the Labor and the Marriage Market**  (with Oriana Bandiera and Amen Jalal)
+**The Race Between the Labor and the Marriage Market**  (with Oriana Bandiera and Amen Jalal) <br/>
 
