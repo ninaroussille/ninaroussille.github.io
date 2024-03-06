@@ -46,14 +46,14 @@ which gives rise to monopsony power and labor market segmentation. <br/>
   <details>
   <summary>Click to view abstract</summary>
  We develop a procedure for adjudicating between models of firm wage- setting conduct. Using data from a U.S. job search platform, we propose a methodology to aggregate workers’ choices over menus of jobs into rankings of firms’ non-wage amenities. We use these estimates to formulate a test of conduct based on exclusion restrictions. Oligopsonistic models incorporat- ing strategic interactions between firms and tailoring of wage offers to work- ers’ outside options are rejected in favor of monopsonistic models featuring near-uniform markdowns. Misspecification has meaningful consequences: our preferred model predicts average markdowns of 19.5%, while others predict average markdowns as large as 26.6%.
-  </details>
+  </details> <br/>
  
   [**Asymmetric Peer Effects at Work: The Effect of White Coworkers on Black Women's careers**](/files/LMR_2023.pdf)  (with [Elizabeth Linos](https://www.hks.harvard.edu/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
 [November 2023] Revise and Resubmit (2nd round), **Management Science**
 <details>
   <summary>Click to view abstract</summary>
 This paper investigates how having more White coworkers influences the subsequent retentionand promotion of Black, Asian, and Hispanic women and men. Studying 9,037 new hires at aprofessional services firm, we first document large racial turnover and promotion gaps: even aftercontrolling for observable characteristics, Black employees are 6.7 percentage points (32%) morelikely to turn over within two years and 18.7 percentage points (26%) less likely to be promotedon time than their White counterparts. The largest turnover gap is between Black and Whitewomen, at 8.9 percentage points (51%). Drawing on conditional random assignment of new hiresto initial project teams, we then show that a one standard deviation (14.0 percentage points) increase in the share of White coworkers is associated with a 10.6 percentage point increasein turnover for Black women. These effects are similar in magnitude to the overall turnovergap between White and Black women, and asymmetric: Black women are the only race-gendergroup whose turnover and promotion are negatively impacted by the racial composition of theircoworkers. We explore potential pathways through which these peer effects may emerge: whilethe share of White coworkers does not affect formal task assignment, Black women who wereinitially assigned to Whiter teams subsequently report fewer billable hours and more traininghours, and are more likely to be labeled as low performers in their first performance review.Our findings call for more research on how peer effects early in one’s career shape longer-termracial inequalities at work.<br/>
-</details>
+</details> <br/>
 
   
 [**Tax Evasion and the Swiss Cheese Regulation**](/files/MR_TaxEvasion_SwissCheeseRegulation2024.pdf) (with [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home)) <br/>
@@ -94,7 +94,7 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
   <summary>Click to view abstract</summary>
 What negotiation tactics make a union powerful? Under the premise that pay transparency would strengthen unions' bargaining position, the U.S. National Labor Relations Act jointly legalized the right to unionize and the right to share salary information. In this paper, we revisit the question of whether unions are conduits of pay information, and whether they should be. We conduct a survey experiment with over 1,500 screenwriters and directors at the point where the Hollywood Guilds were renegotiating their multi-year contracts with the major U.S. Studios. We find that Guild members highly value information about market pay. When we introduce pay transparency, we find that it erodes the perception that the Guilds' demands will meet member needs in the ongoing contract negotiation. In line with our empirical results, we propose a theoretical framework whereby benevolent unions keep pay information private to sustain member participation in collective bargaining. <br/>
 </details>
-
+<br/>
 
 **The Race Between the Labor and the Marriage Market**  (with Oriana Bandiera and Amen Jalal) <br/>
 
