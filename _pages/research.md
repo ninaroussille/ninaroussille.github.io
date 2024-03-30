@@ -8,7 +8,7 @@ redirect_from:
 
 ## Working papers
 
-[**The role of the ask gap in gender pay inequality**](/files/Roussille_2023.pdf)  <br/> 
+[**The role of the ask gap in gender pay inequality**](/files/Roussille_2024.pdf)  <br/> 
 Forthcoming (August 2024), **Quarterly Journal of Economics**
 <!--- (/files/Roussille_2024.pdf) --->
 <details>
