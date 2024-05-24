@@ -39,7 +39,6 @@ which gives rise to monopsony power and labor market segmentation. <br/>
 **Media coverage**: [Brookings](https://www.brookings.edu/blog/up-front/2022/01/06/hutchins-roundup-racial-disparity-core-inflation-and-more/), [Project Syndicate](https://www.project-syndicate.org/commentary/great-resignation-us-lack-of-support-for-workers-by-j-bradford-delong-2021-12), [Business Insider](https://www.businessinsider.com/wage-pay-salary-transparency-effect-workers-quit-raises-great-resignation-2022-1?r=US&IR=T), [BBC](https://www.bbc.com/worklife/article/20220204-the-salary-ignorance-that-keeps-many-workers-underpaid), [Economic Report of the President/CEA Annual Report 
 ](https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf)  <br/>
 
-    
 
   [**Bidding for Talent: A Test of Conduct in a High-Wage Labor Market**](https://www.dropbox.com/scl/fi/tahti6l1707s385hgd6ob/Roussille_Scuderi_021224.pdf?rlkey=qz19yt4nb27v3unlgns2od3e2&raw=1) (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
   [Updated, February 2024] 
@@ -96,5 +95,5 @@ What negotiation tactics make a union powerful? Under the premise that pay trans
 </details>
 <br/>
 
-**The Race Between the Labor and the Marriage Market**  (with Oriana Bandiera and Amen Jalal) <br/>
+**The Illusion of Time: Gender Gaps in Job Search and Employment **  (with Oriana Bandiera and Amen Jalal) <br/>
 
