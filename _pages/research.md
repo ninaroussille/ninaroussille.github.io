@@ -88,8 +88,6 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
 
 ## Work in Progress
 
-**Pay Transparency and the Efficacy of Collective Bargaining: Evidence from Hollywood**  (with Zoë Cullen, Julia Gilman and Heather Sarsons)
 
-
-**The Illusion of Time: Gender Gaps in Job Search and Employment **  (with Oriana Bandiera and Amen Jalal) <br/>
+**The Illusion of Time: Gender Gaps in Job Search and Employment**  (with Oriana Bandiera and Amen Jalal) <br/>
 
