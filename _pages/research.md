@@ -48,7 +48,7 @@ which gives rise to monopsony power and labor market segmentation. <br/>
   </details> <br/>
  
   [**Intersectional Peer Effects at Work: The Effect of White Coworkers on Black Women's careers**](/files/LMR_2024.pdf)  (with [Elizabeth Linos](https://www.hks.harvard.edu/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
-[July 2024] Accepted, **Management Science**
+[Updated, July 2024] Accepted, **Management Science**
 <details>
   <summary>Click to view abstract</summary>
 
