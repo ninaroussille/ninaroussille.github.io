@@ -13,7 +13,7 @@ Forthcoming (August 2024), **Quarterly Journal of Economics**
 <!--- (/files/Roussille_2024.pdf) --->
 <details>
   <summary>Click to view abstract</summary> 
-The gender ask gap measures the extent to which women ask for lower salaries than comparable men. This paper studies its role in generating wage inequality, using novel data from an online recruitment platform for full-time engineering jobs: Hired.com. To use the platform, job candidates must post an ask salary, stating how much they want to make in their next job. Firms then apply to candidates by offering them a \textit{bid salary}, solely based on the candidate's resume and ask salary. If the candidate is hired, a final salary is recorded. After adjusting for resume characteristics, the ask gap is 2.9%, the bid gap is 2.2%, and the final offer gap is 1.4%. Further controlling for the ask salary explains the entirety of the residual gender gaps in bid and final salaries. To further provide evidence of the causal effect of the ask salary on the bid salary, I exploit an unanticipated change in how candidates were prompted to provide their ask. For some candidates in mid-2018, the answer box used to solicit the ask salary was changed from an empty field to an entry pre-filled with the median bid salary for similar candidates. I find that this change drove the ask, bid, and final offer gaps to zero. In addition, women did not receive fewer bids or final offers than men did due to the change, suggesting they faced little penalty for demanding comparable wages. <br/>
+The gender ask gap measures the extent to which women ask for lower salaries than comparable men. This paper studies its role in generating wage inequality, using novel data from an online recruitment platform for full-time engineering jobs: Hired.com. To use the platform, job candidates must post an ask salary, stating how much they want to make in their next job. Firms then apply to candidates by offering them a bid salary, solely based on the candidate's resume and ask salary. If the candidate is hired, a final salary is recorded. After adjusting for resume characteristics, the ask gap is 2.9%, the bid gap is 2.2%, and the final offer gap is 1.4%. Further controlling for the ask salary explains the entirety of the residual gender gaps in bid and final salaries. To further provide evidence of the causal effect of the ask salary on the bid salary, I exploit an unanticipated change in how candidates were prompted to provide their ask. For some candidates in mid-2018, the answer box used to solicit the ask salary was changed from an empty field to an entry pre-filled with the median bid salary for similar candidates. I find that this change drove the ask, bid, and final offer gaps to zero. In addition, women did not receive fewer bids or final offers than men did due to the change, suggesting they faced little penalty for demanding comparable wages. <br/>
 </details> 
 
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
@@ -29,7 +29,7 @@ with objective benchmarks. First, we find that workers wrongly anchor their beli
 about outside options on their current wage: workers that would experience a 10%
 wage change if switching to their outside option only expect a 1% change. Second,
 workers in low-paying firms underestimate wages elsewhere. Third, in response to
-information about thewages of similarworkers, respondents correct their beliefs about
+information about the wages of similar workers, respondents correct their beliefs about
 their outside options and change their job search and wage negotiation intentions.
 Finally, we analyze the consequences of anchoring in a simple equilibrium model. In
 the model, anchored beliefs keep overly pessimistic workers stuck in low-wage jobs,
@@ -41,7 +41,7 @@ which gives rise to monopsony power and labor market segmentation. <br/>
 
 
   [**Bidding for Talent: A Test of Conduct in a High-Wage Labor Market**](https://www.dropbox.com/scl/fi/tahti6l1707s385hgd6ob/Roussille_Scuderi_021224.pdf?rlkey=qz19yt4nb27v3unlgns2od3e2&raw=1) (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
-  [Updated, February 2024] 
+  [Updated, February 2024] Revise and Resubmit, **American Economic Review**
   <details>
   <summary>Click to view abstract</summary>
  We develop a procedure for adjudicating between models of firm wage- setting conduct. Using data from a U.S. job search platform, we propose a methodology to aggregate workers’ choices over menus of jobs into rankings of firms’ non-wage amenities. We use these estimates to formulate a test of conduct based on exclusion restrictions. Oligopsonistic models incorporat- ing strategic interactions between firms and tailoring of wage offers to work- ers’ outside options are rejected in favor of monopsonistic models featuring near-uniform markdowns. Misspecification has meaningful consequences: our preferred model predicts average markdowns of 19.5%, while others predict average markdowns as large as 26.6%.
@@ -77,14 +77,6 @@ effect on declarations.  <br/>
 </details>
 
 **Media coverage**: [Le Monde](https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html) <br/>
-
-
-<!--- [**Tax evasion and the Swiss cheese regulation**](/files/DiscussionNBERSI.pdf)  <br/>
-  <details>
-  <summary>Click to view abstract</summary>
-Before automatic exchange of information, the 2005 Savings Tax Directive was the most far-ranging initiative in the attempt to curb tax evasion of European households in Switzerland. Under this program, European tax evaders holding interest-yielding accounts in Switzerland had two choices: either declare their accounts to the fiscal authorities of their resident countries or pay a tax upfront and keep their anonymity. Exploiting a unique combination of public administrative datasets, this paper sheds light on the loopholes of this reform and the large behavioral responses of tax evaders aimed at exploiting them. I find that the reform barely curbed tax evasion : 80% of the European offshore wealth in Switzerland remained both undeclared and untaxed by 2013. Using the Swiss households’ investments as a control group, I show that the failure of the Directive is mainly explained by tax evaders’ active re-investment strategies in tax-exempt assets. While they remain fairly low, declarations of offshore wealth under the Directive have more than quadrupled over the period 2006-2013. This paper demonstrates that monetary incentives, such as tax amnesties in the evader’s home country or the increase in the upfront tax in Switzerland, are the first drivers of declarations. Conversely, bilateral information exchange treaties that were praised as a way to “end bank secrecy” have the least effect on declarations. <br/>
-</details>
---->
 
 ## Work in Progress
 
