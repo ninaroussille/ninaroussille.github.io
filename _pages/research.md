@@ -81,7 +81,7 @@ effect on declarations.  <br/>
 
 ## Work in Progress
 
-**Does Inequality Affect the Labor Movement** (with Zoë Cullen and Julia Gilman)
+**Does Inequality Affect the Labor Movement?** (with Zoë Cullen and Julia Gilman)
 
 **The Illusion of Time: Gender Gaps in Job Search and Employment**  (with Oriana Bandiera and Amen Jalal) <br/>
 
