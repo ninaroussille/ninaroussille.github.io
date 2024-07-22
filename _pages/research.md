@@ -8,7 +8,7 @@ redirect_from:
 
 ## Working papers
 
-[**The role of the ask gap in gender pay inequality**](/files/Roussille_2024.pdf)  <br/> 
+[**The Role of the Ask Gap in Gender Pay Inequality**](/files/Roussille_2024.pdf)  <br/> 
 Forthcoming (August 2024), **Quarterly Journal of Economics**
 <!--- (/files/Roussille_2024.pdf) --->
 <details>
@@ -81,6 +81,7 @@ effect on declarations.  <br/>
 
 ## Work in Progress
 
+**Does Inequality Affect the Labor Movement** (with Zoë Cullen and Julia Gilman)
 
 **The Illusion of Time: Gender Gaps in Job Search and Employment**  (with Oriana Bandiera and Amen Jalal) <br/>
 
