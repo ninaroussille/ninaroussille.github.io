@@ -6,10 +6,10 @@ redirect_from:
   - /research.html
 ---
 
-## Working papers
+## Publications
 
 [**The Role of the Ask Gap in Gender Pay Inequality**](/files/Roussille_2024.pdf)  <br/> 
-Forthcoming (August 2024), **Quarterly Journal of Economics**
+ (August 2024), **Quarterly Journal of Economics**
 <!--- (/files/Roussille_2024.pdf) --->
 <details>
   <summary>Click to view abstract</summary> 
@@ -19,7 +19,7 @@ The gender ask gap measures the extent to which women ask for lower salaries tha
 **Media coverage**: [Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-27/bloomberg-equality-one-easy-way-to-close-the-gender-pay-gap), [BBC](https://www.bbc.com/worklife/article/20210615-how-the-salary-ask-gap-perpetuates-unequal-pay), [Econimate](https://www.youtube.com/watch?v=Ugbrz2xqJ44)  <br/>
 
   [**Worker Beliefs About Outside Options**](/files/WorkerBeliefs_QJE.pdf) (with [Simon Jäger](https://economics.mit.edu/faculty/sjaeger), [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) and [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/)) <br/> 
-Forthcoming (August 2024), **Quarterly Journal of Economics**
+ (August 2024), **Quarterly Journal of Economics**
   <details>
   <summary>Click to view abstract</summary>
 Standard labor market models assume that workers hold accurate beliefs about the
@@ -39,6 +39,7 @@ which gives rise to monopsony power and labor market segmentation. <br/>
 **Media coverage**: [Brookings](https://www.brookings.edu/blog/up-front/2022/01/06/hutchins-roundup-racial-disparity-core-inflation-and-more/), [Project Syndicate](https://www.project-syndicate.org/commentary/great-resignation-us-lack-of-support-for-workers-by-j-bradford-delong-2021-12), [Business Insider](https://www.businessinsider.com/wage-pay-salary-transparency-effect-workers-quit-raises-great-resignation-2022-1?r=US&IR=T), [BBC](https://www.bbc.com/worklife/article/20220204-the-salary-ignorance-that-keeps-many-workers-underpaid), [Economic Report of the President/CEA Annual Report 
 ](https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf)  <br/>
 
+## Working papers
 
   [**Bidding for Talent: A Test of Conduct in a High-Wage Labor Market**](https://www.dropbox.com/scl/fi/tahti6l1707s385hgd6ob/Roussille_Scuderi_021224.pdf?rlkey=qz19yt4nb27v3unlgns2od3e2&raw=1) (with [Benjamin Scuderi](https://sites.google.com/site/scuderib))  <br/>
   [Updated, February 2024] Revise and Resubmit, **American Economic Review**
