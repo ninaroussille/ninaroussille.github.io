@@ -89,4 +89,4 @@ effect on declarations.  <br/>
 ## Policy
 
 [**Gender equality : A matter of equity, an economic imperative**](/files/cae083-femmes-241128.pdf)  (with Emmanuelle Auriol and Camille Landais) <br/>  **
-(Novembre 2024), **Notes of the French Economic Analysis Council**
+(November 2024), **Notes of the French Economic Analysis Council**
