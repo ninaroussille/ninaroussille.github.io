@@ -49,7 +49,7 @@ which gives rise to monopsony power and labor market segmentation. <br/>
   </details> <br/>
  
   [**Intersectional Peer Effects at Work: The Effect of White Coworkers on Black Women's careers**](/files/LMR_2024.pdf)  (with [Elizabeth Linos](https://www.hks.harvard.edu/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
-[Updated, July 2024] Accepted, **Management Science**
+[Updated, July 2024] Forthcoming, **Management Science**
 <details>
   <summary>Click to view abstract</summary>
 
@@ -86,3 +86,7 @@ effect on declarations.  <br/>
 
 **The Illusion of Time: Gender Gaps in Job Search and Employment**  (with Oriana Bandiera and Amen Jalal) <br/>
 
+## Policy
+
+[**Gender equality : A matter of equity, an economic imperative**](/files/cae083-femmes-241128.pdf)  (with Emmanuelle Auriol and Camille Landais) <br/>  **
+(Novembre 2024), **Notes of the French Economic Analysis Council**
