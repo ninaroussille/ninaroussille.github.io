@@ -47,7 +47,7 @@ which gives rise to monopsony power and labor market segmentation. <br/>
   <details>
   <summary>Click to view abstract</summary>
  We develop a procedure for adjudicating between models of firm wage- setting conduct. Using data from a U.S. job search platform, we propose a methodology to aggregate workers’ choices over menus of jobs into rankings of firms’ non-wage amenities. We use these estimates to formulate a test of conduct based on exclusion restrictions. Oligopsonistic models incorporat- ing strategic interactions between firms and tailoring of wage offers to work- ers’ outside options are rejected in favor of monopsonistic models featuring near-uniform markdowns. Misspecification has meaningful consequences: our preferred model predicts average markdowns of 19.5%, while others predict average markdowns as large as 26.6%. <br/>
-  </details> 
+  </details>  <br/>
  
   [**Intersectional Peer Effects at Work: The Effect of White Coworkers on Black Women's careers**](/files/LMR_2024.pdf)  (with [Elizabeth Linos](https://www.hks.harvard.edu/faculty/elizabeth-linos) and [Sanaz Mobasseri](https://www.sanazmobasseri.com/))   <br/>
 [Updated, July 2024] Forthcoming, **Management Science**
