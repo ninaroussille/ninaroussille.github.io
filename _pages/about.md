@@ -17,3 +17,5 @@ My research is in the field of labor economics, with a particular interest in th
 You can contact me at: [nroussil@mit.edu](mailto:nroussil@mit.edu)
 
 For MIT PhD students office hours, sign up [here](https://calendly.com/ninaroussille/officehours)
+
+**I am hiring a predoc for the academic years 2025-2027, apply  [here](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=31869&localeCode=en-us), deadline February 20th**
