@@ -1,26 +1,26 @@
+<!-- Mobile Menu Button (Hamburger) -->
+<button class="hamburger-menu">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
 
-{% include base_path %}
-
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
-  {% endif %}
+<div class="sidebar">
+  <div class="sidebar-content">
+    <!-- Profile Image -->
+    <div class="profile-image-container">
+      <a href="#about">
+        <img src="/images/profile2.png" alt="Nina Roussille" class="profile-image">
+      </a>
+    </div>
+    
+    <!-- Navigation Links -->
+    <nav class="sidebar-nav">
+      <a href="#about" class="nav-link">ABOUT</a>
+      <a href="#publications" class="nav-link">PUBLICATIONS</a>
+      <a href="#working-papers" class="nav-link">WORKING PAPERS</a>
+      <a href="#work-in-progress" class="nav-link">WORK IN PROGRESS</a>
+      <a href="#policy" class="nav-link">POLICY</a>
+    </nav>
   </div>
-{% endif %}
+</div>

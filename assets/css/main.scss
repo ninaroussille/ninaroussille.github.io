@@ -39,3 +39,476 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Sidebar Styles */
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 20vw; /* 1/5 of viewport width */
+  height: 100vh;
+  background-color: #8B0000; /* Dark red */
+  border-right: 1px solid #eaeaea;
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+}
+
+.profile-image-container {
+  width: 96%;
+  max-width: 180px;
+  aspect-ratio: 1;
+  margin: 0 auto 2rem;
+  border: 3px solid white;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.profile-image-container:hover {
+  transform: translateY(-2px);
+}
+
+.profile-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.sidebar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.8rem;
+  color: white;
+  text-decoration: none;
+  transition: color 0.2s;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+}
+
+.nav-link:hover {
+  color: #ffcccc;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Main Content Adjustment */
+.main-content {
+  margin-left: 20vw;
+  padding: 2rem 1rem 2rem 0;
+  width: 80vw;
+}
+
+/* Hamburger Menu Button */
+.hamburger-menu {
+  display: none; /* Hidden by default on desktop */
+  position: fixed;
+  top: 1rem;
+  right: 1rem; /* Changed from left to right */
+  z-index: 1001;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.hamburger-menu span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  margin: 5px 0;
+  background-color: #333;
+  transition: all 0.3s ease;
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  .hamburger-menu {
+    display: block;
+  }
+
+  .sidebar {
+    transform: translateX(100%);
+    position: fixed;
+    right: 0;
+    left: auto;
+    width: 250px;
+    height: 100vh;
+    background: #8B0000;
+    transition: transform 0.3s ease;
+    z-index: 1000;
+    box-shadow: -2px 0 5px rgba(0,0,0,0.1);
+  }
+
+  .nav-link {
+    color: white;
+    font-size: 1rem;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .nav-link:hover {
+    color: #ffcccc;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .sidebar.active {
+    transform: translateX(0);
+  }
+
+  /* Hamburger Animation */
+  .hamburger-menu.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+
+  .hamburger-menu.active span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .hamburger-menu.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -7px);
+  }
+
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+    padding: 1rem;
+  }
+}
+
+/* Add these after your existing styles */
+
+.centered-content {
+  min-height: calc(100vh - 4rem); /* Full viewport height minus padding */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.name-header {
+  font-size: 2rem;
+  font-weight: 500;
+  text-align: left;
+  margin-bottom: 2rem;
+  letter-spacing: 0.1em;
+}
+
+/* Adjust mobile styles */
+@media (max-width: 768px) {
+  .centered-content {
+    min-height: calc(100vh - 2rem);
+    padding: 1rem;
+  }
+
+  .name-header {
+    font-size: 1.75rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* Update the button styles */
+.button-container {
+  margin: 2rem 0;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+  font-weight: 500;
+  padding: 0.75rem;
+  overflow: hidden;
+}
+
+.button-icon {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.cv-button {
+  background-color: white;
+  color: #333;
+}
+
+.social-button {
+  width: 3rem;
+  height: 3rem;
+  background-color: white;
+  color: #333;
+}
+
+.button:hover {
+  background-color: #f5f5f5;
+  text-decoration: none;
+  color: #333;
+  transform: translateY(-1px);
+}
+
+/* Add to your mobile styles */
+@media (max-width: 768px) {
+  .button-container {
+    margin: 1.5rem 0;
+  }
+  
+  .button {
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0.5rem;
+  }
+  
+  .button-icon {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+/* Add these section styles */
+.page-content {
+  max-width: 800px;
+  margin: 0 0 0 2rem;
+  padding: 2rem;
+}
+
+.content-section {
+  min-height: 100vh; /* Make each section at least full viewport height */
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  scroll-margin-top: 2rem;
+}
+
+.section-header {
+  font-size: 1.75rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #eaeaea;
+}
+
+.paper {
+  margin-bottom: 3rem;
+}
+
+.paper h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.paper-meta {
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.paper-links {
+  margin-bottom: 1rem;
+  
+  a {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background-color: #f5f5f5;
+    border-radius: 3px;
+    color: #333;
+    text-decoration: none;
+    margin-right: 0.5rem;
+    
+    &:hover {
+      background-color: #e5e5e5;
+    }
+  }
+}
+
+.paper-abstract {
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
+
+/* Update mobile styles */
+@media (max-width: 768px) {
+  .content-section {
+    min-height: auto; /* Remove full height requirement on mobile */
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+  }
+
+  .section-header {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  #about.content-section {
+    padding-top: 0;
+  }
+}
+
+/* Add smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Mobile Navigation Styles */
+.mobile-nav-header {
+  display: none; /* Hidden by default on desktop */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #8B0000;
+  z-index: 1000;
+  padding: 0 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.mobile-nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.mobile-title {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+/* Update Mobile Styles */
+@media (max-width: 768px) {
+  .mobile-nav-header {
+    display: block;
+  }
+
+  .hamburger-menu {
+    position: static;
+    margin-left: auto;
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .hamburger-menu span {
+    background-color: white;
+  }
+
+  .sidebar {
+    transform: translateX(100%);
+    position: fixed;
+    right: 0;
+    top: 60px;
+    width: 100%;
+    height: calc(100vh - 60px);
+    background-color: #8B0000;
+    z-index: 1000;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .sidebar-content {
+    width: 100%;
+  }
+
+  .profile-image-container {
+    display: none;
+  }
+
+  .sidebar-nav {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .nav-link {
+    color: white;
+    font-size: 1rem;
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .nav-link:hover {
+    color: #ffcccc;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .sidebar.active {
+    transform: translateX(0);
+  }
+
+  .main-content {
+    margin-top: 60px;
+    margin-left: 0;
+    width: 100%;
+    padding: 1rem;
+  }
+}
+
+/* Adjust About section padding */
+#about.content-section {
+  padding-top: calc(20vh); /* Reduced further to align with profile image top */
+  min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  #about.content-section {
+    padding-top: 0;
+  }
+}
+
+/* Font imports */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+/* Base font styles */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+/* Header fonts */
+.name-header, 
+.section-header,
+.mobile-title,
+.nav-link {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+
+/* Paper titles */
+.paper h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}

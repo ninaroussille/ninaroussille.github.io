@@ -1,25 +1,58 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="icon" type="image/png" href="/images/delta.png">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
 
   <body>
+    <!-- Add mobile navigation header -->
+    <header class="mobile-nav-header">
+      <div class="mobile-nav-content">
+        <h1 class="mobile-title">NINA ROUSSILLE</h1>
+        <button class="hamburger-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </header>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include sidebar.html %}
+    
+    <div class="main-content">
+      {{ content }}
+    </div>
 
-    {{ content }}
+    <script>
+      // Hamburger menu toggle
+      const hamburger = document.querySelector('.hamburger-menu');
+      const sidebar = document.querySelector('.sidebar');
+      
+      hamburger.addEventListener('click', () => {
+        hamburger.classList.toggle('active');
+        sidebar.classList.toggle('active');
+      });
 
+      // Close menu when clicking outside
+      document.addEventListener('click', (e) => {
+        if (!sidebar.contains(e.target) && !hamburger.contains(e.target) && sidebar.classList.contains('active')) {
+          sidebar.classList.remove('active');
+          hamburger.classList.remove('active');
+        }
+      });
 
-    {% include scripts.html %}
-
+      // Close menu when clicking a navigation link
+      const navLinks = document.querySelectorAll('.nav-link');
+      navLinks.forEach(link => {
+        link.addEventListener('click', () => {
+          sidebar.classList.remove('active');
+          hamburger.classList.remove('active');
+        });
+      });
+    </script>
   </body>
 </html>
