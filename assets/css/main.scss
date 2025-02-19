@@ -47,13 +47,14 @@
   top: 0;
   width: 20vw; /* 1/5 of viewport width */
   height: 100vh;
-  background-color: #8B0000; /* Dark red */
+  background: linear-gradient(135deg, #8B0000 0%, #660000 100%);
   border-right: 1px solid #eaeaea;
   padding: 2rem 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  box-shadow: 2px 0 20px rgba(139, 0, 0, 0.1);
 }
 
 .sidebar-content {
@@ -238,11 +239,12 @@
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   border-radius: 4px;
   font-weight: 500;
   padding: 0.75rem;
   overflow: hidden;
+  background-color: #FFF5F5;
 }
 
 .button-icon {
@@ -252,22 +254,23 @@
 }
 
 .cv-button {
-  background-color: white;
+  background-color: #FFF5F5;
   color: #333;
 }
 
 .social-button {
   width: 3rem;
   height: 3rem;
-  background-color: white;
+  background-color: #FFF5F5;
   color: #333;
 }
 
 .button:hover {
-  background-color: #f5f5f5;
+  background-color: #FFE6E6;
   text-decoration: none;
   color: #333;
-  transform: translateY(-1px);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.15);
 }
 
 /* Add to your mobile styles */
@@ -307,11 +310,23 @@
   font-weight: 500;
   margin-bottom: 2rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #eaeaea;
+  border-bottom: 2px solid #8B0000;
+  color: #8B0000;
+  letter-spacing: 0.05em;
 }
 
 .paper {
   margin-bottom: 3rem;
+  padding: 2rem;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 2px 4px rgba(139, 0, 0, 0.05);
+}
+
+.paper:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(139, 0, 0, 0.1);
 }
 
 .paper h3 {
@@ -331,21 +346,22 @@
   a {
     display: inline-block;
     padding: 0.25rem 0.75rem;
-    background-color: #f5f5f5;
+    background-color: #FFE6E6;
     border-radius: 3px;
     color: #333;
     text-decoration: none;
     margin-right: 0.5rem;
+    transition: all 0.2s ease;
     
     &:hover {
-      background-color: #e5e5e5;
+      background-color: #FFD6D6;
     }
   }
 }
 
 .paper-abstract {
   padding: 1rem;
-  background-color: #f8f9fa;
+  background-color: #FFE6E6;
   border-radius: 4px;
 }
 
@@ -496,6 +512,7 @@ body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   font-weight: 400;
   line-height: 1.6;
+  background-color: #FFF5F5; /* Very light pink */
 }
 
 /* Header fonts */
@@ -511,4 +528,62 @@ body {
 .paper h3 {
   font-family: 'Inter', sans-serif;
   font-weight: 500;
+}
+
+/* Back to Top Button */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background: #8B0000;
+  color: white;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 8px rgba(139, 0, 0, 0.2);
+  z-index: 999;
+}
+
+.back-to-top.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.back-to-top:hover {
+  background: #660000;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.3);
+}
+
+/* Reading Progress Bar */
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: #8B0000;
+  z-index: 1002;
+  transition: width 0.1s ease;
+}
+
+@media (max-width: 768px) {
+  .back-to-top {
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  
+  .progress-bar {
+    top: 60px; /* Below mobile header */
+  }
 }

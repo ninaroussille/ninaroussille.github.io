@@ -84,7 +84,7 @@ author_profile: true
     <div class="paper">
       <h3>Bidding for Talent: A Test of Conduct in a High-Wage Labor Market</h3>
       <p class="paper-meta">(with Benjamin Scuderi)</p>
-      <p class="paper-meta">[Updated, February 2024] Revise and Resubmit, American Economic Review</p>
+      <p class="paper-meta">[Updated, February 2024] Revise and Resubmit, <strong>American Economic Review</strong></p>
       <div class="paper-links">
         <a href="/files/papers/bidding_talent.pdf" target="_blank">PDF</a>
       </div>
@@ -97,7 +97,7 @@ author_profile: true
     <div class="paper">
       <h3>Intersectional Peer Effects at Work: The Effect of White Coworkers on Black Women's careers</h3>
       <p class="paper-meta">(with Elizabeth Linos and Sanaz Mobasseri)</p>
-      <p class="paper-meta">[Updated, July 2024] Forthcoming, Management Science</p>
+      <p class="paper-meta">[Updated, July 2024] Forthcoming, <strong>Management Science</strong></p>
       <div class="paper-links">
         <a href="/files/papers/intersectional_effects.pdf" target="_blank">PDF</a>
       </div>
