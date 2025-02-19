@@ -31,7 +31,7 @@ author_profile: true
 
     <p>For MIT PhD students office hours, <a href="https://calendly.com/ninaroussille/officehours" target="_blank">sign up here</a></p>
 
-    <p><strong>I am hiring a predoc to work with me starting this summer 2025, <a href="https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=31869&localeCode=en-us" target="_blank">apply here</a>, deadline February 20th</strong></p>
+    <p><strong>I am hiring a predoc to work with me starting this summer 2025, <a href="/files/Research_Fellow_Applications.pdf" target="_blank">learn more here</a>, deadline February 20th</strong></p>
   </section>
 
   <!-- Publications Section -->
