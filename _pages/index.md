@@ -42,7 +42,7 @@ author_profile: true
       <h3>The Role of the Ask Gap in Gender Pay Inequality</h3>
       <p class="paper-meta">(August 2024), <strong>Quarterly Journal of Economics</strong></p>
       <div class="paper-links">
-        <a href="/files/papers/ask_gap.pdf" target="_blank">PDF</a>
+        <a href="/files/Ask_Gap.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
@@ -60,7 +60,7 @@ author_profile: true
       <p class="paper-meta">(August 2024), <strong>Quarterly Journal of Economics</strong></p>
       <p class="paper-meta">(with Simon Jäger, Chris Roth and Benjamin Schoefer)</p>
       <div class="paper-links">
-        <a href="/files/papers/worker_beliefs.pdf" target="_blank">PDF</a>
+        <a href="/files/WorkerBeliefs_QJE.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
@@ -86,7 +86,7 @@ author_profile: true
       <p class="paper-meta">(with Benjamin Scuderi)</p>
       <p class="paper-meta">[Updated, February 2024] Revise and Resubmit, <strong>American Economic Review</strong></p>
       <div class="paper-links">
-        <a href="/files/papers/bidding_talent.pdf" target="_blank">PDF</a>
+        <a href="/files/Bidding_for_Talent.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
@@ -99,7 +99,7 @@ author_profile: true
       <p class="paper-meta">(with Elizabeth Linos and Sanaz Mobasseri)</p>
       <p class="paper-meta">[Updated, July 2024] Forthcoming, <strong>Management Science</strong></p>
       <div class="paper-links">
-        <a href="/files/papers/intersectional_effects.pdf" target="_blank">PDF</a>
+        <a href="/files/Intersectional_Peer_Effects_at_Work.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
@@ -117,7 +117,7 @@ author_profile: true
       <p class="paper-meta">(with Clara Martínez-Toledano)</p>
       <p class="paper-meta">[Updated, January 2024]</p>
       <div class="paper-links">
-        <a href="/files/papers/tax_evasion.pdf" target="_blank">PDF</a>
+        <a href="/files/Tax_Evasion_Swiss_Cheese_Regulation.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
@@ -153,7 +153,7 @@ author_profile: true
       <p class="paper-meta">(with Emmanuelle Auriol and Camille Landais)</p>
       <p class="paper-meta">(November 2024), Notes of the French Economic Analysis Council</p>
       <div class="paper-links">
-        <a href="/files/papers/gender_equality.pdf" target="_blank">PDF</a>
+        <a href="/files/Note_du_CAE.pdf" target="_blank">PDF</a>
       </div>
     </div>
   </section>
