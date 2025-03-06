@@ -15,7 +15,7 @@ author_profile: true
     <p>My research is in the field of labor economics, with a particular interest in the determinants of imperfect competition and the role of information frictions in income inequality.</p>
 
     <div class="button-container">
-      <a href="/files/CV.pdf" class="button cv-button" target="_blank">
+      <a href="/files/nina-cv.pdf" class="button cv-button" target="_blank">
         <img src="/images/cv.png" alt="CV" class="button-icon">
       </a>
       <a href="https://x.com/NinaRoussille" class="button social-button" target="_blank">
