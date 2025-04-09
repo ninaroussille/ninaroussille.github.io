@@ -82,6 +82,49 @@ author_profile: true
     <h2 class="section-header">Working Papers</h2>
     
     <div class="paper">
+      <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
+      <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
+      <p class="paper-meta">[April 2025]</p>
+      <div class="paper-links">
+        <a href="/files/Bandiera_Jalal_Roussille_2025.pdf" target="_blank">PDF</a>
+      </div>
+      <details class="paper-abstract">
+        <summary>Click to view abstract</summary>
+        <p>This paper asks how gender equality in education can coexist with large gender
+
+gaps in employment. We track the job search of 2,400 students graduating from two
+
+major universities in Pakistan — a country where two out of three college-educated
+
+women stay out of the labor force. We document that men and women begin with
+
+the same work aspirations, apply at the same time and at similar rates, and receive
+
+a comparable number of job offers. However, women are more likely to turn down
+
+these offers such that, six months post-graduation, the gender employment gap is
+
+27 pp. Differences in the returns to application timing underpin this pattern: the
+
+likelihood of accepting an offer declines over time for women, not for men. This
+
+finding motivates our experiment, which financially incentivizes students to apply to
+
+jobs within a month of graduation. The intervention shifts applications earlier for both
+
+genders but raises employment for women only, reducing the gender employment gap
+
+by 34%. Treatment works on women who experience “the illusion of time”, i.e. those
+
+who underestimate how quickly external constraints—particularly from families and
+
+the marriage market— arise. By inducing these women to search before constraints
+
+bind, our intervention increases their chances of accepting a job offer.</p>
+      </details>
+    </div>
+
+    <div class="paper">
       <h3>Bidding for Talent: A Test of Conduct in a High-Wage Labor Market</h3>
       <p class="paper-meta">(with Benjamin Scuderi)</p>
       <p class="paper-meta">[Updated, February 2024] Revise and Resubmit, <strong>American Economic Review</strong></p>
@@ -138,10 +181,6 @@ author_profile: true
       <p class="paper-meta">(with Zoë Cullen and Julia Gilman)</p>
     </div>
 
-    <div class="paper">
-      <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
-      <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
-    </div>
   </section>
 
   <!-- Policy Section -->
