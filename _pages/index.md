@@ -89,9 +89,9 @@ author_profile: true
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
-        <p>This paper asks how gender equality in education can coexist with large gender
-
-gaps in employment. We track the job search of 2,400 students graduating from two
+        <p>Gender gaps in education have closed in many parts of the world while gaps in
+employment remain wide open, even among college graduates. 
+This paper asks why. We track the job search of 2,400 students graduating from two
 
 major universities in Pakistan — a country where two out of three college-educated
 
