@@ -84,9 +84,6 @@ author_profile: true
       <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
       <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
       <p class="paper-meta">[April 2025]</p>
-      <div class="paper-links">
-        <a href="/files/Bandiera_Jalal_Roussille_2025.pdf" target="_blank">PDF</a>
-      </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
         <p>Gender gaps in education have closed in many parts of the world while gaps in
