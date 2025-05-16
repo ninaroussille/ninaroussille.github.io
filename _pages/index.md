@@ -123,9 +123,9 @@ bind, our intervention increases their chances of accepting a job offer.</p>
     <div class="paper">
       <h3>Bidding for Talent: A Test of Conduct in a High-Wage Labor Market</h3>
       <p class="paper-meta">(with Benjamin Scuderi)</p>
-      <p class="paper-meta">[Updated, February 2024] Revise and Resubmit, <strong>American Economic Review</strong></p>
+      <p class="paper-meta">[Updated, May 2025] Revised and Resubmitted, <strong>American Economic Review</strong></p>
       <div class="paper-links">
-        <a href="/files/Bidding_for_Talent.pdf" target="_blank">PDF</a>
+        <a href="/files/Roussille_Scuderi_May2025.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
