@@ -174,7 +174,7 @@ bind, our intervention increases their chances of accepting a job offer.</p>
     
     <div class="paper">
       <h3>Does Inequality Affect the Labor Movement?</h3>
-      <p class="paper-meta">(with Zoë Cullen and Julia Gilman)</p>
+      <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
     </div>
 
   </section>
