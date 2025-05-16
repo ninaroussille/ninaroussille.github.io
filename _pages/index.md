@@ -81,6 +81,19 @@ author_profile: true
     <h2 class="section-header">Working Papers</h2>
     
     <div class="paper">
+      <h3>Bidding for Talent: A Test of Conduct in a High-Wage Labor Market</h3>
+      <p class="paper-meta">(with Benjamin Scuderi)</p>
+      <p class="paper-meta">[Updated, May 2025] Revised and Resubmitted, <strong>American Economic Review</strong></p>
+      <div class="paper-links">
+        <a href="/files/Roussille_Scuderi_May2025.pdf" target="_blank">PDF</a>
+      </div>
+      <details class="paper-abstract">
+        <summary>Click to view abstract</summary>
+        <p>We develop a procedure for adjudicating between models of firm wage-setting conduct. Using data from a U.S. job search platform, we propose a methodology to aggregate workers' choices over menus of jobs into rankings of firms' non-wage amenities. We use these estimates to formulate a test of conduct based on exclusion restrictions. Oligopsonistic models incorporating strategic interactions between firms and tailoring of wage offers to workers' outside options are rejected in favor of monopsonistic models featuring near-uniform markdowns. Misspecification has meaningful consequences: our preferred model predicts average markdowns of 19.5%, while others predict average markdowns as large as 26.6%.</p>
+      </details>
+    </div>
+
+        <div class="paper">
       <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
       <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
       <p class="paper-meta">[April 2025]</p>
@@ -117,19 +130,6 @@ who underestimate how quickly external constraints—particularly from families 
 the marriage market— arise. By inducing these women to search before constraints
 
 bind, our intervention increases their chances of accepting a job offer.</p>
-      </details>
-    </div>
-
-    <div class="paper">
-      <h3>Bidding for Talent: A Test of Conduct in a High-Wage Labor Market</h3>
-      <p class="paper-meta">(with Benjamin Scuderi)</p>
-      <p class="paper-meta">[Updated, May 2025] Revised and Resubmitted, <strong>American Economic Review</strong></p>
-      <div class="paper-links">
-        <a href="/files/Roussille_Scuderi_May2025.pdf" target="_blank">PDF</a>
-      </div>
-      <details class="paper-abstract">
-        <summary>Click to view abstract</summary>
-        <p>We develop a procedure for adjudicating between models of firm wage-setting conduct. Using data from a U.S. job search platform, we propose a methodology to aggregate workers' choices over menus of jobs into rankings of firms' non-wage amenities. We use these estimates to formulate a test of conduct based on exclusion restrictions. Oligopsonistic models incorporating strategic interactions between firms and tailoring of wage offers to workers' outside options are rejected in favor of monopsonistic models featuring near-uniform markdowns. Misspecification has meaningful consequences: our preferred model predicts average markdowns of 19.5%, while others predict average markdowns as large as 26.6%.</p>
       </details>
     </div>
 
