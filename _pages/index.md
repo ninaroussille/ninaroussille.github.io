@@ -94,44 +94,20 @@ author_profile: true
     </div>
 
         <div class="paper">
-      <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
-      <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
-      <p class="paper-meta">[April 2025]</p>
+      <h3>How Does Wage Inequality Affect the Labor Movement?</h3>
+      <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
+       <p class="paper-meta">[June 2025]</p>
+         <div class="paper-links">
+        <a href="/files/BCGR_June2025.pdf" target="_blank">PDF</a>
+      </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
-        <p>Gender gaps in education have closed in many parts of the world while gaps in
-employment remain wide open, even among college graduates. 
-This paper asks why. We track the job search of 2,400 students graduating from two
-
-major universities in Pakistan — a country where two out of three college-educated
-
-women stay out of the labor force. We document that men and women begin with
-
-the same work aspirations, apply at the same time and at similar rates, and receive
-
-a comparable number of job offers. However, women are more likely to turn down
-
-these offers such that, six months post-graduation, the gender employment gap is
-
-27 pp. Differences in the returns to application timing underpin this pattern: the
-
-likelihood of accepting an offer declines over time for women, not for men. This
-
-finding motivates our experiment, which financially incentivizes students to apply to
-
-jobs within a month of graduation. The intervention shifts applications earlier for both
-
-genders but raises employment for women only, reducing the gender employment gap
-
-by 34%. Treatment works on women who experience “the illusion of time”, i.e. those
-
-who underestimate how quickly external constraints—particularly from families and
-
-the marriage market— arise. By inducing these women to search before constraints
-
-bind, our intervention increases their chances of accepting a job offer.</p>
+        <p>  This paper provides the first causal evidence on how occupational wage inequality affects the labor movement, using three complementary research designs: a vignette experiment with union organizers, an information intervention during the 2023Writers Guild of America strike, and a natural experiment following a Wisconsin reform that increased wage inequality among public school teachers. Across all studies, we find that occupational inequality undermines union strength, through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers strategically respond to inequality in ways that may preserve membership but limit redistribution. For instance, they shift away from campaigning on wages and choose smaller, more homogeneous bargaining units. Taken together, our findings highlight the potential for “inequality traps”, where rising inequality erodes the very institutions designed to counteract it. </p>
       </details>
     </div>
+    
+
+    
 
     <div class="paper">
       <h3>Intersectional Peer Effects at Work: The Effect of White Coworkers on Black Women's careers</h3>
@@ -171,11 +147,13 @@ bind, our intervention increases their chances of accepting a job offer.</p>
   <!-- Work in Progress Section -->
   <section id="work-in-progress" class="content-section">
     <h2 class="section-header">Work in Progress</h2>
-    
-    <div class="paper">
-      <h3>Does Inequality Affect the Labor Movement?</h3>
-      <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
-    </div>
+
+
+ <div class="paper">
+      <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
+      <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
+       </div>
+
 
   </section>
 
