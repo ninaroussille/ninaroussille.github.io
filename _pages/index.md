@@ -102,7 +102,21 @@ author_profile: true
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
-        <p>  This paper provides the first causal evidence on how occupational wage inequality affects the labor movement, using three complementary research designs: a vignette experiment with union organizers, an information intervention during the 2023Writers Guild of America strike, and a natural experiment following a Wisconsin reform that increased wage inequality among public school teachers. Across all studies, we find that occupational inequality undermines union strength, through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers strategically respond to inequality in ways that may preserve membership but limit redistribution. For instance, they shift away from campaigning on wages and choose smaller, more homogeneous bargaining units. Taken together, our findings highlight the potential for “inequality traps”, where rising inequality erodes the very institutions designed to counteract it. </p>
+        <p>  This paper provides the first causal evidence on how occupational wage inequality affects the labor movement, using three complementary research designs: a vignette experiment with union organizers, an information intervention during the 2023 Writers Guild of America strike, and a natural experiment following a Wisconsin reform that increased wage inequality among public school teachers. Across all studies, we find that occupational inequality undermines union strength, through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers strategically respond to inequality in ways that may preserve membership but limit redistribution. For instance, they shift away from campaigning on wages and choose smaller, more homogeneous bargaining units. Taken together, our findings highlight the potential for “inequality traps”, where rising inequality erodes the very institutions designed to counteract it. </p>
+      </details>
+    </div>
+
+    
+        <div class="paper">
+      <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
+      <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
+       <p class="paper-meta">[July 2025]</p>
+         <div class="paper-links">
+        <a href="/files/BJR_July2025.pdf" target="_blank">PDF</a>
+      </div>
+      <details class="paper-abstract">
+        <summary>Click to view abstract</summary>
+        <p>  In countries with low female employment, college educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college graduating students, we document that men and women start their job search with similar work aspirations, apply at similar times and rates, and receive comparable numbers of job offers, but women are more likely to reject them. As a result, a 27 pp employment gap emerges within six months post-graduation. Belief data show that women nearly accurately predict this outcome for their peers, but overestimate their own work prospects. The employment gap stems largely from timing: for women only, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal — and anticipated— we randomize a modest incentive to apply early. By shifting students’ search into the critical early window, the intervention raises women’s employment by ∼ 20% but leaves men’s unaffected, closing a third of the gender employment gap. Treatment effects are driven by women who underestimate how quickly their own marriage market activities arise, revealing an “illusion of time.” </p>
       </details>
     </div>
     
@@ -148,11 +162,6 @@ author_profile: true
   <section id="work-in-progress" class="content-section">
     <h2 class="section-header">Work in Progress</h2>
 
-
- <div class="paper">
-      <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
-      <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
-       </div>
 
 
   </section>
