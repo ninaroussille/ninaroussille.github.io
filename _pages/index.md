@@ -29,7 +29,7 @@ author_profile: true
       </a>
     </div>
 
-    <p>For MIT PhD students office hours, <a href="https://calendly.com/ninaroussille/officehours" target="_blank">sign up here</a></p>
+   <!---  <p>For MIT PhD students office hours, <a href="https://calendly.com/ninaroussille/officehours" target="_blank">sign up here</a></p> --> 
 
   </section>
 
