@@ -18,14 +18,8 @@ author_profile: true
       <a href="/files/nina-cv.pdf" class="button cv-button" target="_blank">
         <img src="/images/cv.png" alt="CV" class="button-icon">
       </a>
-      <a href="https://x.com/NinaRoussille" class="button social-button" target="_blank">
-        <img src="/images/twitter.png" alt="X/Twitter" class="button-icon">
-      </a>
       <a href="mailto:nroussil@mit.edu" class="button social-button">
         <img src="/images/email.png" alt="Email" class="button-icon">
-      </a>
-      <a href="https://calendly.com/ninaroussille/officehours" class="button social-button" target="_blank">
-        <img src="/images/calendar.png" alt="Calendar" class="button-icon">
       </a>
     </div>
 
