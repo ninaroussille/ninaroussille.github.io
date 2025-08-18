@@ -14,6 +14,8 @@ author_profile: true
 
     <p>My research is in the field of labor economics, with a particular interest in the determinants of imperfect competition and the role of information frictions in income inequality.</p>
 
+<p>I am on leave at Princeton University for the 2025-2026 academic year.<p>
+
     <div class="button-container">
       <a href="/files/nina-cv.pdf" class="button cv-button" target="_blank">
         <img src="/images/cv.png" alt="CV" class="button-icon">
