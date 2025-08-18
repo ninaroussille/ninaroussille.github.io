@@ -14,7 +14,7 @@ author_profile: true
 
     <p>My research is in the field of labor economics, with a particular interest in the determinants of imperfect competition and the role of information frictions in income inequality.</p>
 
-<p>I am on leave at Princeton University for the 2025-2026 academic year.<p>
+<p>I am on leave at Princeton University for the 2025-2026 academic year.</p>
 
     <div class="button-container">
       <a href="/files/nina-cv.pdf" class="button cv-button" target="_blank">
@@ -27,8 +27,8 @@ author_profile: true
 
    <!---  <p>For MIT PhD students office hours, <a href="https://calendly.com/ninaroussille/officehours" target="_blank">sign up here</a></p> --> 
 
-  </section>
-
+ </section>
+ 
   <!-- Publications Section -->
   <section id="publications" class="content-section">
     <h2 class="section-header">Publications</h2>
