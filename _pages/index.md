@@ -135,7 +135,7 @@ author_profile: true
         <a href="https://nonprofitquarterly.org/beyond-karen-white-woman-archetypes-in-the-third-sector/" target="_blank">Nonprofit Quarterly</a>, 
         <a href="https://www.hks.harvard.edu/faculty-research/policy-topics/education-training-labor/when-black-women-work-whiter-teams-they-may?tpcc=NL_Marketing" target="_blank">Harvard Kennedy School's public policy newsletter</a>
       </div>
-    </div>
+  
 
 
   </section>
@@ -162,7 +162,6 @@ author_profile: true
       <div class="paper-links">
         <a href="/files/Note_du_CAE.pdf" target="_blank">PDF</a>
       </div>
-     </div>
          
   </section>
 
