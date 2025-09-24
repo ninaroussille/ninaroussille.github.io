@@ -115,6 +115,7 @@ author_profile: true
         <p>  In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women’s employment by ∼ 20% but leaves men’s employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an “illusion of time.” This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them. </p>
       </details>
     </div>
+   
     
 
     
@@ -135,7 +136,7 @@ author_profile: true
         <a href="https://nonprofitquarterly.org/beyond-karen-white-woman-archetypes-in-the-third-sector/" target="_blank">Nonprofit Quarterly</a>, 
         <a href="https://www.hks.harvard.edu/faculty-research/policy-topics/education-training-labor/when-black-women-work-whiter-teams-they-may?tpcc=NL_Marketing" target="_blank">Harvard Kennedy School's public policy newsletter</a>
       </div>
-  
+       </div>
 
 
   </section>
