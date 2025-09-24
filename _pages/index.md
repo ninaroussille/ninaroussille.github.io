@@ -137,9 +137,8 @@ author_profile: true
         <a href="https://www.hks.harvard.edu/faculty-research/policy-topics/education-training-labor/when-black-women-work-whiter-teams-they-may?tpcc=NL_Marketing" target="_blank">Harvard Kennedy School's public policy newsletter</a>
       </div>
        </div>
-
-
   </section>
+  
   <!-- Work in Progress Section -->
   <section id="work-in-progress" class="content-section">
     <h2 class="section-header">Work in Progress</h2>
@@ -163,8 +162,7 @@ author_profile: true
       </div>
        </div>
   </section>
-  
-    <!-- Resting Paper Section -->
+
   <section id="resting" class="content-section">
     <h2 class="section-header">Resting Paper</h2>
 
