@@ -140,7 +140,6 @@ author_profile: true
 
 
   </section>
-
   <!-- Work in Progress Section -->
   <section id="work-in-progress" class="content-section">
     <h2 class="section-header">Work in Progress</h2>
@@ -149,9 +148,8 @@ author_profile: true
       <h3>Revisiting the Workweek Reduction Debate: Lessons from France's 35-Hour Policy </h3>
       <p class="paper-meta">(with Pauline Carry, Claire Montialoux, Elio Nimier-David and Alexandra Roulet)</p>
       </div>
-
   </section>
-
+  
   <!-- Policy Section -->
   <section id="policy" class="content-section">
     <h2 class="section-header">Policy</h2>
@@ -163,10 +161,9 @@ author_profile: true
       <div class="paper-links">
         <a href="/files/Note_du_CAE.pdf" target="_blank">PDF</a>
       </div>
-         
+       </div>
   </section>
-
-
+  
     <!-- Resting Paper Section -->
   <section id="resting" class="content-section">
     <h2 class="section-header">Resting Paper</h2>
