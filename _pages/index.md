@@ -70,6 +70,25 @@ author_profile: true
         <a href="https://www.govinfo.gov/content/pkg/ERP-2022/pdf/ERP-2022.pdf" target="_blank">Economic Report of the President/CEA Annual Report</a>
       </div>
     </div>
+
+     <div class="paper">
+      <h3>Intersectional Peer Effects at Work: The Effect of White Coworkers on Black Women's careers</h3>
+      <p class="paper-meta">(with Elizabeth Linos and Sanaz Mobasseri)</p>
+      <p class="paper-meta">(September 2025),  <strong>Management Science</strong></p>
+      <div class="paper-links">
+        <a href="/files/Intersectional_Peer_Effects_at_Work.pdf" target="_blank">PDF</a>
+      </div>
+      <details class="paper-abstract">
+        <summary>Click to view abstract</summary>
+        <p>This paper investigates how having more White coworkers influences the subsequent retention and promotion of Black women. Studying 9,037 new hires at a professional services firm, we first document large racial turnover and promotion gaps: even after controlling for observable characteristics, Black employees are 6.7 percentage points (32%) more likely to turn over within two years and 18.7 percentage points (26%) less likely to be promoted on time than their White counterparts. The largest turnover gap is between Black and White women, at 8.9 percentage points (51%). We argue that initial assignment to project teams is conditionally random, based on placebo tests and qualitative evidence. Under the assumption of conditional random assignment, we show that a one standard deviation (20.8 percentage points) increase in the share of White coworkers is associated with a 15.8 percentage point increase in turnover and an 11.5 percentage point decrease in promotion for Black women. We refer to these effects as intersectional: Black women are the only race-gender group whose turnover and promotion is negatively impacted by White coworkers. We explore potential causal pathways through which these peer effects may emerge: Black women who were initially assigned to Whiter teams are subsequently more likely to be labeled as low performers and report fewer billable hours, both of which are predictors of higher turnover and lower promotion for all employees. Our findings contribute to the literatures on peer effects, intersectionality, and the practice of managing race and gender inequality in organizations.</p>
+      </details>
+      <div class="paper-media">
+        Media coverage: <a href="https://www.huffingtonpost.co.uk/entry/black-women-whiter-teams-study_l_655655c8e4b05723e4bc4754" target="_blank">The Huffington Post</a>, 
+        <a href="https://nonprofitquarterly.org/beyond-karen-white-woman-archetypes-in-the-third-sector/" target="_blank">Nonprofit Quarterly</a>, 
+        <a href="https://www.hks.harvard.edu/faculty-research/policy-topics/education-training-labor/when-black-women-work-whiter-teams-they-may?tpcc=NL_Marketing" target="_blank">Harvard Kennedy School's public policy newsletter</a>
+      </div>
+       </div>
+       
   </section>
 
   <!-- Working Papers Section -->
@@ -120,23 +139,7 @@ author_profile: true
 
     
 
-    <div class="paper">
-      <h3>Intersectional Peer Effects at Work: The Effect of White Coworkers on Black Women's careers</h3>
-      <p class="paper-meta">(with Elizabeth Linos and Sanaz Mobasseri)</p>
-      <p class="paper-meta">[Updated, July 2024] Forthcoming, <strong>Management Science</strong></p>
-      <div class="paper-links">
-        <a href="/files/Intersectional_Peer_Effects_at_Work.pdf" target="_blank">PDF</a>
-      </div>
-      <details class="paper-abstract">
-        <summary>Click to view abstract</summary>
-        <p>This paper investigates how having more White coworkers influences the subsequent retention and promotion of Black women. Studying 9,037 new hires at a professional services firm, we first document large racial turnover and promotion gaps: even after controlling for observable characteristics, Black employees are 6.7 percentage points (32%) more likely to turn over within two years and 18.7 percentage points (26%) less likely to be promoted on time than their White counterparts. The largest turnover gap is between Black and White women, at 8.9 percentage points (51%). We argue that initial assignment to project teams is conditionally random, based on placebo tests and qualitative evidence. Under the assumption of conditional random assignment, we show that a one standard deviation (20.8 percentage points) increase in the share of White coworkers is associated with a 15.8 percentage point increase in turnover and an 11.5 percentage point decrease in promotion for Black women. We refer to these effects as intersectional: Black women are the only race-gender group whose turnover and promotion is negatively impacted by White coworkers. We explore potential causal pathways through which these peer effects may emerge: Black women who were initially assigned to Whiter teams are subsequently more likely to be labeled as low performers and report fewer billable hours, both of which are predictors of higher turnover and lower promotion for all employees. Our findings contribute to the literatures on peer effects, intersectionality, and the practice of managing race and gender inequality in organizations.</p>
-      </details>
-      <div class="paper-media">
-        Media coverage: <a href="https://www.huffingtonpost.co.uk/entry/black-women-whiter-teams-study_l_655655c8e4b05723e4bc4754" target="_blank">The Huffington Post</a>, 
-        <a href="https://nonprofitquarterly.org/beyond-karen-white-woman-archetypes-in-the-third-sector/" target="_blank">Nonprofit Quarterly</a>, 
-        <a href="https://www.hks.harvard.edu/faculty-research/policy-topics/education-training-labor/when-black-women-work-whiter-teams-they-may?tpcc=NL_Marketing" target="_blank">Harvard Kennedy School's public policy newsletter</a>
-      </div>
-       </div>
+   
   </section>
   
   <!-- Work in Progress Section -->
