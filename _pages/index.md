@@ -52,8 +52,8 @@ author_profile: true
 
     <div class="paper">
       <h3>Worker Beliefs About Outside Options</h3>
+            <p class="paper-meta">(with Simon Jäger, Chris Roth and Benjamin Schoefer)</p>
       <p class="paper-meta">(August 2024), <strong>Quarterly Journal of Economics</strong></p>
-      <p class="paper-meta">(with Simon Jäger, Chris Roth and Benjamin Schoefer)</p>
       <div class="paper-links">
         <a href="/files/WorkerBeliefs_QJE.pdf" target="_blank">PDF</a>
       </div>
