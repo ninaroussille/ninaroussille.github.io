@@ -10,7 +10,7 @@ author_profile: true
   <section id="about" class="content-section">
     <h1 class="name-header">NINA ROUSSILLE</h1>
 
-    <p>I joined MIT's Economics Department as an Assistant Professor in July 2023 after a postdoc at the LSE. I am also the Executive Director of the <a href="https://www.hubequalrep.org/" target="_blank">Hub for Equal Representation</a> at the LSE and a Research Director at the International Growth Centre, for the The Firms, Trade, and Productivity Initiative. I received my Phd in Economics from UC Berkeley.</p>
+    <p>I joined MIT's Economics Department as an Assistant Professor in July 2023 after a postdoc at the LSE. I am also the Executive Director of the <a href="https://www.hubequalrep.org/" target="_blank">Hub for Equal Representation</a> at the LSE and a Research Director at the International Growth Centre, for the Firms, Trade, and Productivity Initiative. I received my Phd in Economics from UC Berkeley.</p>
 
     <p>My research is in the field of labor economics, with a particular interest in the determinants of imperfect competition and the role of information frictions in income inequality.</p>
 
