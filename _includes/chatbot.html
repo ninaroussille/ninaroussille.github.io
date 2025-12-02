@@ -1,0 +1,352 @@
+<style>
+#econ-chat {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  width: 340px;
+  font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+  z-index: 9999;
+}
+
+#econ-chat .panel {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  box-shadow: 0 8px 30px rgba(0,0,0,.12);
+  overflow: hidden;
+  display: none;
+  max-height: 500px;
+  flex-direction: column;
+}
+
+#econ-chat header {
+  padding: 12px 16px;
+  background: #0f172a;
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#econ-chat #close {
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+#econ-chat #close:hover {
+  opacity: 1;
+}
+
+#econ-chat #msgs {
+  height: 340px;
+  overflow-y: auto;
+  padding: 16px;
+  background: #fafafa;
+  flex: 1;
+}
+
+#econ-chat .msg {
+  margin: 8px 0;
+  padding: 10px 12px;
+  border-radius: 10px;
+  max-width: 85%;
+  font-size: 14px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+#econ-chat .user {
+  margin-left: auto;
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+#econ-chat .bot {
+  margin-right: auto;
+  background: white;
+  border: 1px solid #e5e7eb;
+  color: #374151;
+}
+
+#econ-chat .loading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #6b7280;
+  font-style: italic;
+}
+
+#econ-chat .loading-dots {
+  display: inline-flex;
+  gap: 4px;
+}
+
+#econ-chat .loading-dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #9ca3af;
+  animation: bounce 1.4s infinite ease-in-out both;
+}
+
+#econ-chat .loading-dots span:nth-child(1) { animation-delay: -0.32s; }
+#econ-chat .loading-dots span:nth-child(2) { animation-delay: -0.16s; }
+
+@keyframes bounce {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+
+#econ-chat .error {
+  background: #fee2e2;
+  border: 1px solid #fecaca;
+  color: #991b1b;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+#econ-chat footer {
+  display: flex;
+  gap: 8px;
+  padding: 12px;
+  background: white;
+  border-top: 1px solid #e5e7eb;
+}
+
+#econ-chat input {
+  flex: 1;
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+#econ-chat input:focus {
+  border-color: #3b82f6;
+}
+
+#econ-chat input:disabled {
+  background: #f3f4f6;
+  cursor: not-allowed;
+}
+
+#econ-chat button {
+  background: #0f172a;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+#econ-chat button:hover:not(:disabled) {
+  background: #1e293b;
+}
+
+#econ-chat button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+#econ-chat .fab {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #0f172a;
+  color: white;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(0,0,0,.2);
+  font-weight: 700;
+  font-size: 14px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+#econ-chat .fab:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 25px rgba(0,0,0,.3);
+}
+
+#econ-chat .disclaimer {
+  padding: 8px 12px;
+  font-size: 11px;
+  color: #6b7280;
+  text-align: center;
+  border-top: 1px solid #e5e7eb;
+  background: #f9fafb;
+}
+
+#econ-chat .citations {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #e5e7eb;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+#econ-chat .citations strong {
+  color: #374151;
+}
+</style>
+
+<div id="econ-chat">
+  <div class="fab" id="fab">Ask</div>
+  <div class="panel" id="panel">
+    <header>
+      <div>Chat about the research</div>
+      <div id="close">✕</div>
+    </header>
+    <div id="msgs"></div>
+    <footer>
+      <input id="input" placeholder="Ask a question about the research…" />
+      <button id="send">Send</button>
+    </footer>
+    <div class="disclaimer">
+      This assistant summarizes papers; cite originals for publication use.
+    </div>
+  </div>
+</div>
+
+<script>
+(() => {
+  // ⚠️ CHANGE THIS to your backend URL after deployment
+  const API_URL = "https://your-backend.onrender.com/api/chat";
+
+  const fab = document.getElementById("fab");
+  const panel = document.getElementById("panel");
+  const close = document.getElementById("close");
+  const msgs = document.getElementById("msgs");
+  const input = document.getElementById("input");
+  const send = document.getElementById("send");
+  
+  let history = [];
+  let isLoading = false;
+
+  const addMessage = (role, text, citations = null) => {
+    const div = document.createElement("div");
+    div.className = `msg ${role === "user" ? "user" : "bot"}`;
+    
+    let content = text;
+    if (citations && citations.length > 0) {
+      content += `<div class="citations"><strong>Sources:</strong> ${citations.join(", ")}</div>`;
+    }
+    
+    div.innerHTML = content;
+    msgs.appendChild(div);
+    msgs.scrollTop = msgs.scrollHeight;
+  };
+
+  const addLoading = () => {
+    const div = document.createElement("div");
+    div.className = "msg bot loading";
+    div.id = "loading-msg";
+    div.innerHTML = `
+      <span>Thinking</span>
+      <span class="loading-dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    `;
+    msgs.appendChild(div);
+    msgs.scrollTop = msgs.scrollHeight;
+  };
+
+  const removeLoading = () => {
+    const loading = document.getElementById("loading-msg");
+    if (loading) loading.remove();
+  };
+
+  const addError = (message) => {
+    const div = document.createElement("div");
+    div.className = "msg bot error";
+    div.textContent = message;
+    msgs.appendChild(div);
+    msgs.scrollTop = msgs.scrollHeight;
+  };
+
+  fab.onclick = () => {
+    panel.style.display = "flex";
+    fab.style.display = "none";
+    input.focus();
+  };
+
+  close.onclick = () => {
+    panel.style.display = "none";
+    fab.style.display = "grid";
+  };
+
+  async function ask() {
+    const message = input.value.trim();
+    if (!message || isLoading) return;
+
+    // Disable input
+    isLoading = true;
+    input.disabled = true;
+    send.disabled = true;
+    input.value = "";
+
+    // Add user message
+    addMessage("user", message);
+    addLoading();
+
+    try {
+      const response = await fetch(API_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message, history })
+      });
+
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error || "Something went wrong");
+      }
+
+      removeLoading();
+      addMessage("bot", data.answer || "Sorry, I couldn't generate a response.", data.citations);
+
+      // Update history
+      history.push({ role: "user", content: message });
+      history.push({ role: "assistant", content: data.answer });
+
+      // Limit history to last 10 messages (20 total with user+assistant pairs)
+      if (history.length > 20) {
+        history = history.slice(-20);
+      }
+
+    } catch (error) {
+      removeLoading();
+      addError(error.message || "Sorry, something went wrong. Please try again.");
+      console.error("Chat error:", error);
+    } finally {
+      // Re-enable input
+      isLoading = false;
+      input.disabled = false;
+      send.disabled = false;
+      input.focus();
+    }
+  }
+
+  send.onclick = ask;
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" && !e.shiftKey) {
+      e.preventDefault();
+      ask();
+    }
+  });
+})();
+</script>
+
