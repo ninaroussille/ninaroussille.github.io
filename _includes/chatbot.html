@@ -222,7 +222,9 @@
 <script>
 (() => {
   // ⚠️ CHANGE THIS to your backend URL after deployment
-  const API_URL = "https://your-backend.onrender.com/api/chat";
+  // For local testing, use: "http://localhost:3000/api/chat"
+  // For production, use: "https://your-backend.onrender.com/api/chat"
+  const API_URL = "http://localhost:3000/api/chat";
 
   const fab = document.getElementById("fab");
   const panel = document.getElementById("panel");

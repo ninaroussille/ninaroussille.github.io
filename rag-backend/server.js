@@ -8,6 +8,7 @@ const app = express();
 // Environment variables
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const VECTOR_STORE_ID = process.env.VECTOR_STORE_ID;
+const ASSISTANT_ID = process.env.ASSISTANT_ID;
 const PORT = process.env.PORT || 3000;
 
 // Validate required env vars
@@ -84,8 +85,8 @@ app.post("/api/chat", async (req, res) => {
 
   try {
     // Use Assistants API with file_search for vector store support
-    // First, get or create an assistant with the vector store
-    let assistantId = process.env.ASSISTANT_ID;
+    // Use existing assistant ID or create new one
+    let assistantId = ASSISTANT_ID;
     
     if (!assistantId) {
       // Create assistant with vector store
@@ -154,12 +155,22 @@ IMPORTANT RULES:
         citations: null, // Can be enhanced to extract citations
         model: "gpt-4o-mini"
       });
+    } else if (runStatus.status === "failed") {
+      // Get detailed error information
+      const errorDetails = runStatus.last_error || {};
+      console.error("Run failed details:", JSON.stringify(errorDetails, null, 2));
+      throw new Error(`Run failed: ${errorDetails.message || "Unknown error"} (code: ${errorDetails.code || "unknown"})`);
     } else {
       throw new Error(`Run failed with status: ${runStatus.status}`);
     }
 
   } catch (error) {
     console.error("Chat error:", error);
+    console.error("Error details:", error.message);
+    if (error.response) {
+      console.error("API Response:", error.response.status, error.response.statusText);
+      console.error("Response data:", JSON.stringify(error.response.data, null, 2));
+    }
     
     // Provide user-friendly error messages
     if (error.status === 429) {
@@ -171,7 +182,7 @@ IMPORTANT RULES:
     }
     
     res.status(500).json({ 
-      error: "Sorry, I encountered an error processing your question. Please try again." 
+      error: `Sorry, I encountered an error: ${error.message || "Unknown error"}. Please try again.` 
     });
   }
 });
