@@ -27,17 +27,10 @@
       {{ content }}
     </div>
 
-    <div class="back-to-top-container">
-      <!-- Back to Top Button -->
-      <button id="back-to-top" class="back-to-top" aria-label="Back to top">
-        <svg width="20" height="20" viewBox="0 0 24 24">
-          <path d="M12 4l-8 8h6v8h4v-8h6z" fill="currentColor"/>
-        </svg>
-      </button>
+    <!-- Reading Progress Bar -->
+    <div class="progress-bar" id="progress-bar"></div>
 
-      <!-- Reading Progress Bar -->
-      <div class="progress-bar" id="progress-bar"></div>
-    </div>
+    {% include chatbot.html %}
 
     <script>
       // Hamburger menu toggle
@@ -66,20 +59,7 @@
         });
       });
 
-      // Back to Top Button
-      const backToTop = document.getElementById('back-to-top');
-      
-      window.addEventListener('scroll', () => {
-        if (window.scrollY > 300) {
-          backToTop.classList.add('show');
-        } else {
-          backToTop.classList.remove('show');
-        }
-      });
-      
-      backToTop.addEventListener('click', () => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
+      // Back to Top functionality removed - chatbot button replaces it
 
       // Reading Progress Bar
       const progressBar = document.getElementById('progress-bar');

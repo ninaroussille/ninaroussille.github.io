@@ -1,0 +1,411 @@
+<style>
+#econ-chat {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  width: 340px;
+  font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+#econ-chat .panel {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  box-shadow: 0 8px 30px rgba(0,0,0,.12);
+  overflow: hidden;
+  display: flex;
+  max-height: 500px;
+  flex-direction: column;
+  animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#econ-chat header {
+  padding: 12px 16px;
+  background: #0f172a;
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#econ-chat #close {
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+#econ-chat #close:hover {
+  opacity: 1;
+}
+
+#econ-chat #msgs {
+  height: 340px;
+  overflow-y: auto;
+  padding: 16px;
+  background: #fafafa;
+  flex: 1;
+}
+
+#econ-chat .msg {
+  margin: 8px 0;
+  padding: 10px 12px;
+  border-radius: 10px;
+  max-width: 85%;
+  font-size: 14px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+#econ-chat .user {
+  margin-left: auto;
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+#econ-chat .bot {
+  margin-right: auto;
+  background: white;
+  border: 1px solid #e5e7eb;
+  color: #374151;
+}
+
+#econ-chat .loading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #6b7280;
+  font-style: italic;
+}
+
+#econ-chat .loading-dots {
+  display: inline-flex;
+  gap: 4px;
+}
+
+#econ-chat .loading-dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #9ca3af;
+  animation: bounce 1.4s infinite ease-in-out both;
+}
+
+#econ-chat .loading-dots span:nth-child(1) { animation-delay: -0.32s; }
+#econ-chat .loading-dots span:nth-child(2) { animation-delay: -0.16s; }
+
+@keyframes bounce {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+
+#econ-chat .error {
+  background: #fee2e2;
+  border: 1px solid #fecaca;
+  color: #991b1b;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+#econ-chat footer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+  background: white;
+  border-top: 1px solid #e5e7eb;
+}
+
+#econ-chat input,
+#econ-chat textarea {
+  width: 100%;
+  padding: 14px 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 15px;
+  outline: none;
+  transition: border-color 0.2s;
+  min-height: 52px;
+  resize: vertical;
+  max-height: 150px;
+  line-height: 1.5;
+  font-family: inherit;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+#econ-chat textarea {
+  resize: vertical;
+  overflow-wrap: break-word;
+}
+
+#econ-chat input:focus,
+#econ-chat textarea:focus {
+  border-color: #3b82f6;
+}
+
+#econ-chat input:disabled,
+#econ-chat textarea:disabled {
+  background: #f3f4f6;
+  cursor: not-allowed;
+}
+
+#econ-chat button {
+  background: #0f172a;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 500;
+  transition: background 0.2s;
+  width: 100%;
+  align-self: flex-end;
+}
+
+#econ-chat button:hover:not(:disabled) {
+  background: #1e293b;
+}
+
+#econ-chat button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+#econ-chat .fab {
+  width: 5.25rem;
+  height: 5.25rem;
+  border-radius: 50%;
+  background: #8B0000;
+  color: white;
+  display: none;
+  place-items: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(139, 0, 0, 0.2);
+  font-weight: 700;
+  font-size: 18px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: none;
+  flex-shrink: 0;
+}
+
+#econ-chat .fab:hover {
+  background: #660000;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.3);
+}
+
+#econ-chat .disclaimer {
+  padding: 8px 12px;
+  font-size: 11px;
+  color: #6b7280;
+  text-align: center;
+  border-top: 1px solid #e5e7eb;
+  background: #f9fafb;
+}
+
+#econ-chat .citations {
+  margin-top: 8px;
+  padding-top: 6px;
+  font-size: 11px;
+  color: #9ca3af;
+  font-style: italic;
+}
+
+#econ-chat .msg .citations {
+  border-top: none;
+}
+
+/* Style inline citations [1], [2], etc. */
+#econ-chat .msg {
+  line-height: 1.6;
+}
+
+#econ-chat .msg a,
+#econ-chat .msg [style*="citation"] {
+  color: #8B0000;
+  text-decoration: none;
+  font-weight: 500;
+}
+</style>
+
+<div id="econ-chat">
+  <div class="fab" id="fab">Ask</div>
+  <div class="panel" id="panel">
+    <header>
+      <div>Ask about my research</div>
+      <div id="close">✕</div>
+    </header>
+    <div id="msgs"></div>
+    <footer>
+      <textarea id="input" placeholder="Ask about my research…" rows="2"></textarea>
+      <button id="send">Send</button>
+    </footer>
+    <div class="disclaimer">
+      This AI assistant summarizes and references papers; cite originals for publication use.
+    </div>
+  </div>
+</div>
+
+<script>
+(() => {
+  // Production backend URL
+  // For local testing, use: "http://localhost:3000/api/chat"
+  const API_URL = "https://nina-rag-backend.onrender.com/api/chat";
+
+  const fab = document.getElementById("fab");
+  const panel = document.getElementById("panel");
+  const close = document.getElementById("close");
+  const msgs = document.getElementById("msgs");
+  const input = document.getElementById("input");
+  const send = document.getElementById("send");
+  
+  let history = [];
+  let isLoading = false;
+
+  const addMessage = (role, text, citations = null) => {
+    const div = document.createElement("div");
+    div.className = `msg ${role === "user" ? "user" : "bot"}`;
+    
+    // Just display the text - no citations
+    div.innerHTML = text;
+    
+    msgs.appendChild(div);
+    msgs.scrollTop = msgs.scrollHeight;
+  };
+
+  const addLoading = () => {
+    const div = document.createElement("div");
+    div.className = "msg bot loading";
+    div.id = "loading-msg";
+    div.innerHTML = `
+      <span>Thinking</span>
+      <span class="loading-dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    `;
+    msgs.appendChild(div);
+    msgs.scrollTop = msgs.scrollHeight;
+  };
+
+  const removeLoading = () => {
+    const loading = document.getElementById("loading-msg");
+    if (loading) loading.remove();
+  };
+
+  const addError = (message) => {
+    const div = document.createElement("div");
+    div.className = "msg bot error";
+    div.textContent = message;
+    msgs.appendChild(div);
+    msgs.scrollTop = msgs.scrollHeight;
+  };
+
+  const openChat = () => {
+    panel.style.display = "flex";
+    fab.style.display = "none";
+    input.focus();
+  };
+
+  const closeChat = () => {
+    panel.style.display = "none";
+    fab.style.display = "grid";
+  };
+
+  fab.onclick = openChat;
+  close.onclick = closeChat;
+
+  // Default open - panel is already visible via CSS
+  input.focus();
+
+  async function ask() {
+    const message = input.value.trim();
+    if (!message || isLoading) return;
+
+    // Disable input
+    isLoading = true;
+    input.disabled = true;
+    send.disabled = true;
+    input.value = "";
+
+    // Add user message
+    addMessage("user", message);
+    addLoading();
+
+    try {
+      const response = await fetch(API_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message, history })
+      });
+
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error || "Something went wrong");
+      }
+
+      removeLoading();
+      addMessage("bot", data.answer || "Sorry, I couldn't generate a response.", data.citations);
+
+      // Update history
+      history.push({ role: "user", content: message });
+      history.push({ role: "assistant", content: data.answer });
+
+      // Limit history to last 10 messages (20 total with user+assistant pairs)
+      if (history.length > 20) {
+        history = history.slice(-20);
+      }
+
+    } catch (error) {
+      removeLoading();
+      addError(error.message || "Sorry, something went wrong. Please try again.");
+      console.error("Chat error:", error);
+    } finally {
+      // Re-enable input
+      isLoading = false;
+      input.disabled = false;
+      send.disabled = false;
+      input.focus();
+    }
+  }
+
+  send.onclick = ask;
+  input.addEventListener("keydown", (e) => {
+    // Allow Shift+Enter for new lines, Enter alone sends
+    if (e.key === "Enter" && !e.shiftKey) {
+      e.preventDefault();
+      ask();
+    }
+  });
+  
+  // Auto-resize textarea as user types
+  input.addEventListener("input", () => {
+    input.style.height = "auto";
+    input.style.height = Math.min(input.scrollHeight, 150) + "px";
+  });
+})();
+</script>
+
