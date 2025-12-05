@@ -530,37 +530,13 @@ body {
   font-weight: 500;
 }
 
-/* Back to Top Button */
-.back-to-top {
-  position: fixed;
-  bottom: 2rem;
-  right: 2rem;
-  background: #8B0000;
-  color: white;
-  width: 3rem;
-  height: 3rem;
-  border-radius: 50%;
-  border: none;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 2px 8px rgba(139, 0, 0, 0.2);
-  z-index: 999;
-}
-
-.back-to-top.show {
-  opacity: 1;
-  visibility: visible;
-}
-
-.back-to-top:hover {
-  background: #660000;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.3);
+/* Back to Top Button - Removed, replaced by chatbot */
+.back-to-top,
+.back-to-top-container,
+#back-to-top {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
 }
 
 /* Reading Progress Bar */
@@ -576,14 +552,21 @@ body {
 }
 
 @media (max-width: 768px) {
-  .back-to-top {
-    bottom: 1.5rem;
-    right: 1.5rem;
-    width: 2.5rem;
-    height: 2.5rem;
-  }
-  
   .progress-bar {
     top: 60px; /* Below mobile header */
+  }
+  
+  /* Chatbot positioning on mobile */
+  #econ-chat {
+    right: 1.5rem;
+    bottom: 1.5rem;
+    width: calc(100% - 3rem);
+    max-width: 340px;
+  }
+  
+  #econ-chat .fab {
+    width: 4.5rem;
+    height: 4.5rem;
+    font-size: 16px;
   }
 }

@@ -148,11 +148,22 @@ IMPORTANT RULES:
       // Get the messages
       const messages = await client.beta.threads.messages.list(thread.id);
       const assistantMessage = messages.data.find(m => m.role === "assistant");
-      const answer = assistantMessage?.content[0]?.text?.value || "I apologize, but I couldn't generate a response.";
+      let answer = assistantMessage?.content[0]?.text?.value || "I apologize, but I couldn't generate a response.";
+      
+      // Remove all citations completely - clean up OpenAI's citation format
+      // Patterns: 【4:0⁺source】, 【4:1†source】, 【4:0source】, 【4:0】, etc.
+      // Using Unicode-aware pattern to catch all citation brackets
+      const citationPattern = /[【\u3010][^】\u3011]*[\d:]+[^】\u3011]*[】\u3011]/g;
+      
+      // Simply remove citations - don't replace with anything
+      answer = answer.replace(citationPattern, '').trim();
+      
+      // Clean up any double spaces that might result from citation removal
+      answer = answer.replace(/\s+/g, ' ');
 
       res.json({
         answer: answer,
-        citations: null, // Can be enhanced to extract citations
+        citations: null,
         model: "gpt-4o-mini"
       });
     } else if (runStatus.status === "failed") {

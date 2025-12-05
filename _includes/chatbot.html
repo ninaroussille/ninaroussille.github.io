@@ -1,11 +1,14 @@
 <style>
 #econ-chat {
   position: fixed;
-  right: 18px;
-  bottom: 18px;
+  right: 2rem;
+  bottom: 2rem;
   width: 340px;
   font-family: system-ui, -apple-system, Segoe UI, sans-serif;
   z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
 }
 
 #econ-chat .panel {
@@ -14,9 +17,21 @@
   border-radius: 14px;
   box-shadow: 0 8px 30px rgba(0,0,0,.12);
   overflow: hidden;
-  display: none;
+  display: flex;
   max-height: 500px;
   flex-direction: column;
+  animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 #econ-chat header {
@@ -113,27 +128,43 @@
 
 #econ-chat footer {
   display: flex;
-  gap: 8px;
+  flex-direction: column;
+  gap: 10px;
   padding: 12px;
   background: white;
   border-top: 1px solid #e5e7eb;
 }
 
-#econ-chat input {
-  flex: 1;
-  padding: 10px 12px;
+#econ-chat input,
+#econ-chat textarea {
+  width: 100%;
+  padding: 14px 16px;
   border: 1px solid #d1d5db;
   border-radius: 8px;
-  font-size: 14px;
+  font-size: 15px;
   outline: none;
   transition: border-color 0.2s;
+  min-height: 52px;
+  resize: vertical;
+  max-height: 150px;
+  line-height: 1.5;
+  font-family: inherit;
+  overflow-y: auto;
+  box-sizing: border-box;
 }
 
-#econ-chat input:focus {
+#econ-chat textarea {
+  resize: vertical;
+  overflow-wrap: break-word;
+}
+
+#econ-chat input:focus,
+#econ-chat textarea:focus {
   border-color: #3b82f6;
 }
 
-#econ-chat input:disabled {
+#econ-chat input:disabled,
+#econ-chat textarea:disabled {
   background: #f3f4f6;
   cursor: not-allowed;
 }
@@ -142,12 +173,14 @@
   background: #0f172a;
   color: white;
   border: none;
-  padding: 10px 16px;
+  padding: 12px 20px;
   border-radius: 8px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 500;
   transition: background 0.2s;
+  width: 100%;
+  align-self: flex-end;
 }
 
 #econ-chat button:hover:not(:disabled) {
@@ -160,23 +193,26 @@
 }
 
 #econ-chat .fab {
-  width: 56px;
-  height: 56px;
+  width: 5.25rem;
+  height: 5.25rem;
   border-radius: 50%;
-  background: #0f172a;
+  background: #8B0000;
   color: white;
-  display: grid;
+  display: none;
   place-items: center;
   cursor: pointer;
-  box-shadow: 0 6px 20px rgba(0,0,0,.2);
+  box-shadow: 0 2px 8px rgba(139, 0, 0, 0.2);
   font-weight: 700;
-  font-size: 14px;
-  transition: transform 0.2s, box-shadow 0.2s;
+  font-size: 18px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: none;
+  flex-shrink: 0;
 }
 
 #econ-chat .fab:hover {
-  transform: scale(1.05);
-  box-shadow: 0 8px 25px rgba(0,0,0,.3);
+  background: #660000;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.3);
 }
 
 #econ-chat .disclaimer {
@@ -190,14 +226,26 @@
 
 #econ-chat .citations {
   margin-top: 8px;
-  padding-top: 8px;
-  border-top: 1px solid #e5e7eb;
-  font-size: 12px;
-  color: #6b7280;
+  padding-top: 6px;
+  font-size: 11px;
+  color: #9ca3af;
+  font-style: italic;
 }
 
-#econ-chat .citations strong {
-  color: #374151;
+#econ-chat .msg .citations {
+  border-top: none;
+}
+
+/* Style inline citations [1], [2], etc. */
+#econ-chat .msg {
+  line-height: 1.6;
+}
+
+#econ-chat .msg a,
+#econ-chat .msg [style*="citation"] {
+  color: #8B0000;
+  text-decoration: none;
+  font-weight: 500;
 }
 </style>
 
@@ -205,16 +253,16 @@
   <div class="fab" id="fab">Ask</div>
   <div class="panel" id="panel">
     <header>
-      <div>Chat about the research</div>
+      <div>Ask about my research</div>
       <div id="close">✕</div>
     </header>
     <div id="msgs"></div>
     <footer>
-      <input id="input" placeholder="Ask a question about the research…" />
+      <textarea id="input" placeholder="Ask about my research…" rows="2"></textarea>
       <button id="send">Send</button>
     </footer>
     <div class="disclaimer">
-      This assistant summarizes papers; cite originals for publication use.
+      This AI assistant summarizes and references papers; cite originals for publication use.
     </div>
   </div>
 </div>
@@ -240,12 +288,9 @@
     const div = document.createElement("div");
     div.className = `msg ${role === "user" ? "user" : "bot"}`;
     
-    let content = text;
-    if (citations && citations.length > 0) {
-      content += `<div class="citations"><strong>Sources:</strong> ${citations.join(", ")}</div>`;
-    }
+    // Just display the text - no citations
+    div.innerHTML = text;
     
-    div.innerHTML = content;
     msgs.appendChild(div);
     msgs.scrollTop = msgs.scrollHeight;
   };
@@ -279,16 +324,22 @@
     msgs.scrollTop = msgs.scrollHeight;
   };
 
-  fab.onclick = () => {
+  const openChat = () => {
     panel.style.display = "flex";
     fab.style.display = "none";
     input.focus();
   };
 
-  close.onclick = () => {
+  const closeChat = () => {
     panel.style.display = "none";
     fab.style.display = "grid";
   };
+
+  fab.onclick = openChat;
+  close.onclick = closeChat;
+
+  // Default open - panel is already visible via CSS
+  input.focus();
 
   async function ask() {
     const message = input.value.trim();
@@ -344,10 +395,17 @@
 
   send.onclick = ask;
   input.addEventListener("keydown", (e) => {
+    // Allow Shift+Enter for new lines, Enter alone sends
     if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
       ask();
     }
+  });
+  
+  // Auto-resize textarea as user types
+  input.addEventListener("input", () => {
+    input.style.height = "auto";
+    input.style.height = Math.min(input.scrollHeight, 150) + "px";
   });
 })();
 </script>
