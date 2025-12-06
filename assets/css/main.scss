@@ -418,6 +418,7 @@ html {
   height: 100%;
   max-width: 1200px;
   margin: 0 auto;
+  padding: 0 0.75rem;
 }
 
 .mobile-title {
@@ -431,6 +432,11 @@ html {
 @media (max-width: 768px) {
   .mobile-nav-header {
     display: block;
+    padding: 0 1rem;
+  }
+  
+  .mobile-nav-content {
+    padding: 0 0.75rem;
   }
 
   .hamburger-menu {
