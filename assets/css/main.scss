@@ -189,7 +189,7 @@
   .main-content {
     margin-left: 0;
     width: 100%;
-    padding: 1rem;
+    padding: 0.5rem;
   }
 }
 
@@ -217,7 +217,7 @@
 @media (max-width: 768px) {
   .centered-content {
     min-height: calc(100vh - 2rem);
-    padding: 1rem;
+    padding: 0.5rem;
   }
 
   .name-header {
@@ -367,6 +367,11 @@
 
 /* Update mobile styles */
 @media (max-width: 768px) {
+  .page-content {
+    margin: 0;
+    padding: 0.5rem;
+  }
+
   .content-section {
     min-height: auto; /* Remove full height requirement on mobile */
     padding-top: 1rem;
@@ -376,6 +381,10 @@
   .section-header {
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
+  }
+
+  .paper {
+    padding: 1rem;
   }
 
   #about.content-section {
