@@ -25,12 +25,28 @@
 
 /* Mobile: default collapsed */
 @media (max-width: 767px) {
+  #econ-chat {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    width: calc(100% - 2rem);
+    max-width: 340px;
+  }
+  
   #econ-chat .panel {
     display: none;
+    max-height: calc(100vh - 120px); /* Leave space for keyboard */
   }
   
   #econ-chat .fab {
     display: grid;
+  }
+  
+  /* Ensure chatbot stays above keyboard */
+  @supports (padding: max(0px)) {
+    #econ-chat {
+      bottom: max(1rem, env(safe-area-inset-bottom, 1rem));
+    }
   }
 }
 
@@ -337,9 +353,31 @@
   const openChat = () => {
     panel.style.display = "flex";
     fab.style.display = "none";
-    // Only auto-focus on desktop to avoid keyboard covering chatbot on mobile
     const isMobile = window.innerWidth <= 767;
-    if (!isMobile) {
+    
+    if (isMobile) {
+      // On mobile, scroll page to bring chatbot into view, then focus
+      // Calculate chatbot position and scroll to ensure it's visible above keyboard
+      setTimeout(() => {
+        const chatElement = document.getElementById('econ-chat');
+        const rect = chatElement.getBoundingClientRect();
+        const viewportHeight = window.innerHeight;
+        const keyboardHeight = viewportHeight * 0.4; // Estimate keyboard height (~40% of viewport)
+        const targetBottom = viewportHeight - keyboardHeight;
+        
+        // If chatbot would be covered by keyboard, scroll page down
+        if (rect.bottom > targetBottom) {
+          const scrollAmount = rect.bottom - targetBottom + 20; // Add 20px padding
+          window.scrollBy({ top: scrollAmount, behavior: 'smooth' });
+        }
+        
+        // Focus input after scroll animation
+        setTimeout(() => {
+          input.focus();
+        }, 400);
+      }, 50);
+    } else {
+      // Desktop: immediate focus
       input.focus();
     }
   };
