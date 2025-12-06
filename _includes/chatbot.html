@@ -23,6 +23,17 @@
   animation: slideUp 0.3s ease-out;
 }
 
+/* Mobile: default collapsed */
+@media (max-width: 767px) {
+  #econ-chat .panel {
+    display: none;
+  }
+  
+  #econ-chat .fab {
+    display: grid;
+  }
+}
+
 @keyframes slideUp {
   from {
     opacity: 0;
@@ -36,7 +47,7 @@
 
 #econ-chat header {
   padding: 12px 16px;
-  background: #0f172a;
+  background: #8B0000;
   color: white;
   font-weight: 600;
   font-size: 14px;
@@ -170,7 +181,7 @@
 }
 
 #econ-chat button {
-  background: #0f172a;
+  background: #8B0000;
   color: white;
   border: none;
   padding: 12px 20px;
@@ -184,7 +195,7 @@
 }
 
 #econ-chat button:hover:not(:disabled) {
-  background: #1e293b;
+  background: #660000;
 }
 
 #econ-chat button:disabled {
@@ -326,7 +337,11 @@
   const openChat = () => {
     panel.style.display = "flex";
     fab.style.display = "none";
-    input.focus();
+    // Only auto-focus on desktop to avoid keyboard covering chatbot on mobile
+    const isMobile = window.innerWidth <= 767;
+    if (!isMobile) {
+      input.focus();
+    }
   };
 
   const closeChat = () => {
@@ -337,8 +352,18 @@
   fab.onclick = openChat;
   close.onclick = closeChat;
 
-  // Default open - panel is already visible via CSS
-  input.focus();
+  // Check if mobile and set initial state
+  const isMobile = window.innerWidth <= 767;
+  if (isMobile) {
+    // Mobile: start collapsed
+    panel.style.display = "none";
+    fab.style.display = "grid";
+  } else {
+    // Desktop: start open
+    panel.style.display = "flex";
+    fab.style.display = "none";
+    input.focus();
+  }
 
   async function ask() {
     const message = input.value.trim();
