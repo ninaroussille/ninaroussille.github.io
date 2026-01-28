@@ -30,7 +30,9 @@
     <!-- Reading Progress Bar -->
     <div class="progress-bar" id="progress-bar"></div>
 
+    {% comment %}
     {% include chatbot.html %}
+    {% endcomment %}
 
     <script>
       // Hamburger menu toggle
@@ -71,5 +73,13 @@
         progressBar.style.width = scrolled + '%';
       });
     </script>
+
+    <!-- PhDBot.ai Widget -->
+    <script src="https://www.phdbot.ai/widget.js"
+            data-user-slug="nina-roussille"
+            data-bot-slug="nina-bot"
+            data-theme="light"
+            data-color="#9F1239"
+            data-api-url="https://www.phdbot.ai/api/chat"></script>
   </body>
 </html>
