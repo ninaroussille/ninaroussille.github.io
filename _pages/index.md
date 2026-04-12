@@ -126,6 +126,7 @@ author_profile: true
       <h3>The Illusion of Time: Gender Gaps in Job Search and Employment</h3>
       <p class="paper-meta">(with Oriana Bandiera and Amen Jalal)</p>
        <p class="paper-meta">[December 2025]</p>
+             <p class="paper-meta"> Revise and Resubmit, <strong>Review of Economic Studies</strong></p>
          <div class="paper-links">
         <a href="/files/BJR_July2025.pdf" target="_blank">PDF</a>
       </div>
