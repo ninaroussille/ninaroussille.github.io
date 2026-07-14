@@ -14,8 +14,6 @@ author_profile: true
 
     <p>My research is in the field of labor economics, with a particular interest in the determinants of imperfect competition and the role of information frictions in income inequality.</p>
 
-<p>I am on leave at Princeton University for the 2025-2026 academic year.</p>
-
     <div class="button-container">
       <a href="/files/nina-cv.pdf" class="button cv-button" target="_blank">
         <img src="/images/cv.png" alt="CV" class="button-icon">
@@ -111,7 +109,7 @@ author_profile: true
         <div class="paper">
       <h3>How Does Wage Inequality Affect the Labor Movement?</h3>
       <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
-       <p class="paper-meta">[Updated May 2026]  Resubmitted, <strong>Quarterly Journal of Economics</strong> </p>
+       <p class="paper-meta">[Updated May 2026]  Conditionally Accepted, <strong>Quarterly Journal of Economics</strong> </p>
          <div class="paper-links">
         <a href="/files/BCGR_May26.pdf" target="_blank">PDF</a>
       </div>
