@@ -145,7 +145,7 @@ author_profile: true
     <h2 class="section-header">Work in Progress</h2>
 
     <div class="paper">
-      <h3>Working Time Reduction, Employment, and Productivity: Evidence from France’s 35-Hour Reform </h3>
+      <h3>The Effects of a Shorter Workweek on Employment, Output, and Productivity </h3>
       <p class="paper-meta">(with Pauline Carry, Claire Montialoux, Elio Nimier-David and Alexandra Roulet)</p>
       </div>
   </section>
