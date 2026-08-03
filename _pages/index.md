@@ -21,6 +21,7 @@ author_profile: true
       <a href="mailto:nroussil@mit.edu" class="button social-button">
         <img src="/images/email.png" alt="Email" class="button-icon">
       </a>
+      <a href="/files/research-statement.pdf" class="research-statement-link" target="_blank">Research Statement</a>
     </div>
 
    <!---  <p>For MIT PhD students office hours, <a href="https://calendly.com/ninaroussille/officehours" target="_blank">sign up here</a></p> --> 
