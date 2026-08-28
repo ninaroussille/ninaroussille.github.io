@@ -113,7 +113,7 @@ author_profile: true
         <div class="paper">
       <h3>How Does Wage Inequality Affect the Labor Movement?</h3>
       <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
-       <p class="paper-meta">[Updated May 2026]  Conditionally Accepted, <strong>Quarterly Journal of Economics</strong> </p>
+       <p class="paper-meta">[Updated August 2026]  Conditionally Accepted, <strong>Quarterly Journal of Economics</strong> </p>
          <div class="paper-links">
         <a href="/files/BCGR_Aug2026.pdf" target="_blank">PDF</a>
       </div>
