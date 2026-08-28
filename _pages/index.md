@@ -115,7 +115,7 @@ author_profile: true
       <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
        <p class="paper-meta">[Updated May 2026]  Conditionally Accepted, <strong>Quarterly Journal of Economics</strong> </p>
          <div class="paper-links">
-        <a href="/files/BCGR_May26.pdf" target="_blank">PDF</a>
+        <a href="/files/BCGR_Aug2026.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
