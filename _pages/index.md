@@ -90,7 +90,20 @@ author_profile: true
         <a href="https://www.hks.harvard.edu/faculty-research/policy-topics/education-training-labor/when-black-women-work-whiter-teams-they-may?tpcc=NL_Marketing" target="_blank">Harvard Kennedy School's public policy newsletter</a>
       </div>
        </div>
-       
+
+               <div class="paper">
+      <h3>How Does Wage Inequality Affect the Labor Movement?</h3>
+      <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
+       <p class="paper-meta"> Forthcoming (February 2027), <strong>Quarterly Journal of Economics</strong> </p>
+         <div class="paper-links">
+        <a href="/files/BCGR_Aug2026.pdf" target="_blank">PDF</a>
+      </div>
+      <details class="paper-abstract">
+        <summary>Click to view abstract</summary>
+        <p>  This paper provides evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.</p>
+      </details>
+    </div>
+    
   </section>
 
   <!-- Working Papers Section -->
@@ -107,19 +120,6 @@ author_profile: true
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
         <p>We develop a procedure for adjudicating between models of firm wage-setting conduct. Using data from a U.S. job search platform, we propose a methodology to aggregate workers' choices over menus of jobs into rankings of firms' non-wage amenities. We use these estimates to formulate a test of conduct based on exclusion restrictions. Oligopsonistic models incorporating strategic interactions between firms and tailoring of wage offers to workers' outside options are rejected in favor of monopsonistic models featuring near-uniform markdowns. Misspecification has meaningful consequences: our preferred model predicts average markdowns of 19.5%, while others predict average markdowns as large as 26.6%.</p>
-      </details>
-    </div>
-
-        <div class="paper">
-      <h3>How Does Wage Inequality Affect the Labor Movement?</h3>
-      <p class="paper-meta">(with Barbara Biasi, Zoë Cullen and Julia Gilman)</p>
-       <p class="paper-meta">[Updated August 2026]  Conditionally Accepted, <strong>Quarterly Journal of Economics</strong> </p>
-         <div class="paper-links">
-        <a href="/files/BCGR_Aug2026.pdf" target="_blank">PDF</a>
-      </div>
-      <details class="paper-abstract">
-        <summary>Click to view abstract</summary>
-        <p>  This paper provides causal evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units. Taken together, our findings highlight the potential for “inequality traps,” where rising inequality erodes the very institutions designed to counteract it. </p>
       </details>
     </div>
 
