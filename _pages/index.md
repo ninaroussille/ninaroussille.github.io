@@ -142,21 +142,25 @@ author_profile: true
     </div>
    
     
+    
+        <div class="paper">
+      <h3>The Effects of a Shorter Workweek on Employment, Output, and Productivity</h3>
+      <p class="paper-meta">(with Pauline Carry, Claire Montialoux, Elio Nimier-David and Alexandra Roulet)</p>
+       <p class="paper-meta">[October 2026] </p>
+         <div class="paper-links">
+        <a href="/files/CMNRR_October2026.pdf" target="_blank">PDF</a>
+      </div>
+      <details class="paper-abstract">
+        <summary>Click to view abstract</summary>
+        <p> Do shorter workweeks generate work-sharing and productivity gains, as intended by policymakers? We study France’s pay-preserving reduction in the workweek from 39 to 35 hours, bundled with employer payroll tax cuts. We first exploit the staggered implementation by firm size to identify the impact of the reform package. We then use differential exposure to the hours cut and tax cut to separate their effects. We combine matched employer–employee, balance-sheet, and survey data to study worker, firm, and local labor market effects. The reform package left employment unchanged. This zero masks large offsetting effects: absent the tax cuts, the shorter workweek would have reduced employment by 3.8%. The effects are skill-biased, raising employment among managers and professionals while reducing it among other employees. Finally, shorter hours raised total factor productivity by 2%, limiting the output decline to 1% despite a 6% fall in total hours. Surveys point to work intensification and organizational changes as potential drivers of productivity gains. </p>
+      </details>
+    </div>
 
     
 
    
   </section>
   
-  <!-- Work in Progress Section -->
-  <section id="work-in-progress" class="content-section">
-    <h2 class="section-header">Work in Progress</h2>
-
-    <div class="paper">
-      <h3>The Effects of a Shorter Workweek on Employment, Output, and Productivity </h3>
-      <p class="paper-meta">(with Pauline Carry, Claire Montialoux, Elio Nimier-David and Alexandra Roulet)</p>
-      </div>
-  </section>
   
   <!-- Policy Section -->
   <section id="policy" class="content-section">
