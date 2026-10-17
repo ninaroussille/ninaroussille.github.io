@@ -178,12 +178,12 @@ author_profile: true
   
   <!-- Resting Paper Section -->
     <section id="resting" class="content-section">
-    <h2 class="section-header">Policy</h2>
+    <h2 class="section-header">Resting Paper</h2>
         
         <div class="paper">
       <h3>Tax Evasion and the Swiss Cheese Regulation/h3>
       <p class="paper-meta">(with Clara Martínez-Toledano)</p>
-       <p class="paper-meta">[October 2026] </p>
+       <p class="paper-meta">[January 2024] </p>
          <div class="paper-links">
         <a href="/files/CMNRR_October2026.pdf" target="_blank">PDF</a>
       </div>
