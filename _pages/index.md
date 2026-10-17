@@ -179,7 +179,6 @@ author_profile: true
   <!-- Resting Paper Section -->
     <section id="resting" class="content-section">
     <h2 class="section-header">Policy</h2>
-
         
         <div class="paper">
       <h3>Tax Evasion and the Swiss Cheese Regulation/h3>
@@ -212,7 +211,6 @@ effect on declarations. </p>
         <a href="https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html" target="_blank">Le Monde</a>, 
       </div>
     
-    </div>
     
   
 
