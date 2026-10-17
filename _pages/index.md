@@ -194,7 +194,7 @@ author_profile: true
 
       <div class="paper-media">
         Media coverage:  
-        <a href="https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html" target="_blank">Le Monde</a>, 
+        <a href="https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html" target="_blank">Le Monde</a> 
       </div>
     
     
