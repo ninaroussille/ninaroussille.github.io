@@ -177,11 +177,11 @@ author_profile: true
   
   
   <!-- Resting Paper Section -->
-    <section id="resting" class="content-section">
+  <section id="resting" class="content-section">
     <h2 class="section-header">Resting Paper</h2>
         
         <div class="paper">
-      <h3>Tax Evasion and the Swiss Cheese Regulation/h3>
+      <h3>Tax Evasion and the Swiss Cheese Regulation</h3>
       <p class="paper-meta">(with Clara Martínez-Toledano)</p>
        <p class="paper-meta">[January 2024] </p>
          <div class="paper-links">
