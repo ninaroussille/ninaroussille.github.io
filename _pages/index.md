@@ -171,7 +171,7 @@ author_profile: true
       <div class="paper-links">
         <a href="/files/Note_du_CAE.pdf" target="_blank">PDF</a>
       </div>
-     
+     </div>
 
   </section>
   
