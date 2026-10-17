@@ -176,4 +176,47 @@ author_profile: true
        </div>
   </section>
 
+  </section>
+  
+  
+  <!-- Resting Paper Section -->
+    <section id="resting" class="content-section">
+    <h2 class="section-header">Policy</h2>
+
+        
+        <div class="paper">
+      <h3>Tax Evasion and the Swiss Cheese Regulation/h3>
+      <p class="paper-meta">(with Clara Martínez-Toledano)</p>
+       <p class="paper-meta">[October 2026] </p>
+         <div class="paper-links">
+        <a href="/files/CMNRR_October2026.pdf" target="_blank">PDF</a>
+      </div>
+      <details class="paper-abstract">
+        <summary>Click to view abstract</summary>
+        <p> This paper studies how investors respond to tax evasion regulations in offshore
+financial centers. We do so by analyzing the 2005 EU Savings Tax Directive,
+which introduced a withholding tax on interest income earned by EU households in
+Switzerland and other offshore centers. Exploiting a unique combination of public
+administrative Swiss datasets, we find that the reform barely curbed tax evasion:
+73% of the European offshore wealth in Switzerland remained both undeclared and
+untaxed by the time the Directive was repealed. We show that the limited scope
+of the Directive is mainly explained by tax evaders’ active re-investment strategies
+in tax-exempt assets, as well as ownership transfer to sham corporations registered
+in tax havens. We rationalize the drivers of declarations by means of a model and
+document empirically that monetary incentives, such as the increase in the upfront
+tax in Switzerland or tax amnesties in the evader’s home country, appear to be
+the driving force behind the rise of declarations. Conversely, bilateral information
+exchange treaties that were praised as a way to “end bank secrecy” have the least
+effect on declarations. </p>
+      </details>
+
+      <div class="paper-media">
+        Media coverage:  
+        <a href="https://www.lemonde.fr/crise-de-l-euro/article/2015/09/22/taxer-les-avoirs-grecs-caches-dans-les-centres-offshore-plutot-que-privatiser_4767278_1656955.html" target="_blank">Le Monde</a>, 
+      </div>
+    
+    </div>
+    
+  
+
 
