@@ -148,7 +148,7 @@ author_profile: true
       <p class="paper-meta">(with Pauline Carry, Claire Montialoux, Elio Nimier-David and Alexandra Roulet)</p>
        <p class="paper-meta">[October 2026] </p>
          <div class="paper-links">
-        <a href="/files/CMNRR_October2026.pdf" target="_blank">PDF</a>
+        <a href="/files/CMNRR_2026.pdf" target="_blank">PDF</a>
       </div>
       <details class="paper-abstract">
         <summary>Click to view abstract</summary>
